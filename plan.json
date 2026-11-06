@@ -1,0 +1,1494 @@
+{
+ "name": "CrossFit 12 周重建计划",
+ "version": 2,
+ "weeks": [
+  {
+   "week": 1,
+   "phase": "阶段一 · 重建",
+   "focus": "建立基线：测出真实起点；有氧底子从今天开始；全程 RPE ≤7",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢力量 + 有氧底子",
+     "duration": 85,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 5×5 @70kg（RPE 6–7，组间 2.5min）"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "硬拉 3×5 @85kg（每下从地面重新起）",
+        "保加利亚分腿蹲 3×8/腿（自重）"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "15min Zone2：单车或坡度走",
+        "心率 125–135，能完整说话"
+       ]
+      }
+     ],
+     "notes": "每组留 2–3 次余力；这周目标是「练完还想练」"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢推拉 + 短 WOD",
+     "duration": 85,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 5×5 @40kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 4×3–5（可弹力带）",
+        "墙撑 3×40s",
+        "箱上倒立撑 3×5"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "短 WOD（cap 12，目标 9–10min）：",
+        "3 轮 300m 跑步机 / 10 哑铃高翻 2×15kg / 10 波比"
+       ]
+      }
+     ],
+     "notes": "起手用 80% 努力，最后一轮加速；完不成记下停在哪"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 + 阈值间歇",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举复合 5 组：1 抓 + 2 过顶深蹲 @40kg",
+        "过顶深蹲 3×5 @35kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举复合 5 组：1 高翻 + 2 借力推 @50kg",
+        "前蹲 4×6 @60kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 5×(3min 单车快 / 2min 慢)",
+        "快段：能说短句、说不出长句"
+       ]
+      }
+     ],
+     "notes": "抓举接住停 1 秒；第一组别冲到顶"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "长有氧 + 技能",
+     "duration": 70,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "40min Zone2：单车或坡度走",
+        "心率 125–140，全程能对话"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "技能 15min：双摇 5×30 / 肩胛引体 3×6 / 悬垂 3×20s"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "核心 3×(30s 平板 + 30s 侧板)"
+       ]
+      }
+     ],
+     "notes": "这天不追强度；这是本周最重要的一节课，别省"
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "phase": "阶段一 · 重建",
+   "focus": "第一次加量：主项 +5kg，有氧时间不变、强度略提",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢力量 + 有氧底子",
+     "duration": 85,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 5×5 @75kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "硬拉 4×5 @90kg（每下从地面重新起）",
+        "保加利亚分腿蹲 3×8/腿（2×8kg）"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "15min Zone2：心率 130–140"
+       ]
+      }
+     ],
+     "notes": "加量后如果 RPE 到 8，下周原地重复"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢推拉 + 短 WOD",
+     "duration": 85,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 5×5 @42.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 4×4",
+        "箱上倒立撑 4×5"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "12min AMRAP（目标 6 轮）：",
+        "200m 跑步机 / 8 哑铃推举 2×15kg / 12 双摇"
+       ]
+      }
+     ],
+     "notes": "按轮次配速：每轮控制在 90 秒左右"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 + 阈值间歇",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 6×2 @42.5kg",
+        "过顶深蹲 3×5 @37.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举 5×2 @52.5kg",
+        "前蹲 4×6 @62.5kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 5×(3min 快 / 2min 慢)"
+       ]
+      }
+     ],
+     "notes": "抓举若连续两次接不稳，降 2.5kg"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "长有氧 + 技能",
+     "duration": 70,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "40min Zone2"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "技能：悬垂摆动 3×5（蝶式预备）/ 双摇 5×35"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "核心 3×(30s 平板 + 30s 侧板)"
+       ]
+      }
+     ],
+     "notes": "悬垂摆动练髋，不用手臂拉"
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "phase": "阶段一 · 重建",
+   "focus": "本阶段最后一个加载周：有氧开始加时长，为阈值打底",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢力量 + 有氧底子",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 5×5 @77.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "硬拉 4×5 @95kg",
+        "保加利亚分腿蹲 3×8/腿（2×10kg）"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "20min Zone2：心率 130–140"
+       ]
+      }
+     ],
+     "notes": "深蹲底部停 1 秒，控制住再起"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢推拉 + 短 WOD",
+     "duration": 85,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 5×5 @45kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 5×3",
+        "屈体俯卧撑 4×6"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "4 轮计时（cap 14，目标 11min）：",
+        "200m 跑步机 / 10 前蹲 @40kg / 10 波比"
+       ]
+      }
+     ],
+     "notes": "前蹲用空杆或 40kg，别用 WOD 试重量"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 + 阈值间歇",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 5×2 @45kg",
+        "过顶深蹲 3×5 @40kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举复合 5 组：1 高翻 + 2 借力推 @55kg",
+        "前蹲 4×6 @65kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 6×(3min 快 / 2min 慢)"
+       ]
+      }
+     ],
+     "notes": "间歇保持每组配速一致，这是有氧训练的关键"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "长有氧 + 技能",
+     "duration": 75,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "45min Zone2"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "技能：双摇 5×40 / 箱上倒立撑 3×5"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "核心 3×10 悬垂举腿（可屈膝）"
+       ]
+      }
+     ],
+     "notes": "这周长有氧加到 45 分钟"
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "phase": "阶段一 · 减量",
+   "focus": "减量周：容量砍 40%，有氧保留。身体在这一周才真正变强",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢 · 技术",
+     "duration": 65,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 3×5 @60kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "硬拉 3×5 @70kg（技术）",
+        "单腿硬拉 3×8/腿"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "20min 轻松 Zone2"
+       ]
+      }
+     ],
+     "notes": "重量轻，专注节奏与呼吸"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢 · 技术",
+     "duration": 65,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 3×5 @32.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 3×3",
+        "倒立撑技术 10min（墙撑 + 箱上）"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "8min AMRAP 轻松：",
+        "8 卡单车 / 8 空蹲 / 8 波比"
+       ]
+      }
+     ],
+     "notes": "不带训练目标，只找感觉"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 · 技术",
+     "duration": 70,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 4×2 @30kg",
+        "过顶深蹲 3×5 @30kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举复合 4 组：1 高翻 + 2 借力推 @40kg",
+        "前蹲 3×6 @50kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 4×(2min 快 / 2min 慢)"
+       ]
+      }
+     ],
+     "notes": "把速度做出来，重量放一边"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "主动恢复",
+     "duration": 60,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "40min Zone2：单车或坡度走"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "全身泡沫轴 + 髋/肩拉伸 15min"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "—"
+       ]
+      }
+     ],
+     "notes": "睡够 8 小时；复盘前三周，别加练"
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "phase": "阶段二 · 建设",
+   "focus": "强度上台阶：主项转 5×3；阈值间歇从 3 分钟拉到 4 分钟",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢力量 + 有氧底子",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 5×3 @82.5kg",
+        "硬拉 4×3 @100kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "保加利亚分腿蹲 3×8/腿（2×10kg）"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "20min Zone2：心率 130–140"
+       ]
+      }
+     ],
+     "notes": "硬拉每下重新起，不弹地"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢 + 短 WOD",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 4×4 @47.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 5×4",
+        "蝶式引体 3×5（弹力带辅助）"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "15min AMRAP（目标 4 轮）：",
+        "20 双摇 / 10 引体 / 10 哑铃推举 2×15kg / 200m"
+       ]
+      }
+     ],
+     "notes": "蝶式先练「髋送、胸贴杠」，不追次数"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 + 阈值间歇",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 6×2 @47.5kg",
+        "过顶深蹲 3×3 @42.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举复合 5 组：1 高翻 + 2 借力推 @57.5kg",
+        "前蹲 4×4 @70kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 5×(4min 快 / 2min 慢)"
+       ]
+      }
+     ],
+     "notes": "4 分钟一组是本阶段的核心刺激"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "长有氧 + 技能",
+     "duration": 75,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "45min Zone2"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "技能：箱上倒立撑 4×5 / 双摇 5×50"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "核心 3×(40s 平板 + 40s 侧板)"
+       ]
+      }
+     ],
+     "notes": "有氧日别空腹，练前吃点碳水"
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "phase": "阶段二 · 建设",
+   "focus": "中期检验：用降阶 Fran 测一次体能；阈值再加长",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢力量 + 有氧底子",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 5×3 @85kg",
+        "硬拉 4×3 @105kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "前蹲 4×4 @72.5kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "20min Zone2"
+       ]
+      }
+     ],
+     "notes": "前蹲是挺举的底子，别跳过"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "推举 + Fran 测试",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 4×4 @50kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 5×4"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "Fran（降阶，cap 12，目标 9–10min）：",
+        "21-15-9 哑铃推举 2×15kg + 引体（可弹力带）"
+       ]
+      }
+     ],
+     "notes": "记下成绩与降阶方式，第 12 周同条件复测"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 + 阈值间歇",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 5×2 @50kg",
+        "过顶深蹲 3×3 @45kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举复合 5 组：1 高翻 + 2 借力推 @60kg",
+        "前蹲 4×4 @72.5kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 5×(4min 快 / 2min 慢)"
+       ]
+      }
+     ],
+     "notes": "60kg 挺举是你原来的水平，注意接杠稳定"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "长有氧 + 技能",
+     "duration": 80,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "50min Zone2"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "技能：双摇 5×50 / 悬垂摆动 3×5"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "核心 3×(45s 平板 + 45s 侧板)"
+       ]
+      }
+     ],
+     "notes": "有氧时长加到 50 分钟"
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "phase": "阶段二 · 建设",
+   "focus": "本阶段峰值周：负荷最高，睡眠和蛋白必须跟上",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢力量 + 有氧底子",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 5×3 @87.5kg",
+        "硬拉 4×3 @107.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "前蹲 4×4 @75kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "20min Zone2"
+       ]
+      }
+     ],
+     "notes": "这周深蹲会很沉，RPE 8 就到顶"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢 + 短 WOD",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 4×4 @52.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 5×5",
+        "蝶式引体 3×5"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "4 轮计时（cap 16，目标 13min）：",
+        "400m 跑步机 / 12 壶铃摆 24kg / 10 波比"
+       ]
+      }
+     ],
+     "notes": "400m 用「能回来」的配速跑，别冲第一轮"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 + 阈值间歇",
+     "duration": 95,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 6×1 @52.5kg",
+        "过顶深蹲 3×3 @47.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举 5×1 @62.5kg",
+        "前蹲 4×4 @75kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 4×(6min 快 / 2min 慢)"
+       ]
+      }
+     ],
+     "notes": "单次抓举，每次重设站位"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "长有氧 + 技能",
+     "duration": 80,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "50min Zone2"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "技能：箱上倒立撑 4×6 / 双摇 5×60"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "核心 3×12 悬垂举腿"
+       ]
+      }
+     ],
+     "notes": "蝶式若肩前侧不适，退回严格引体"
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "phase": "阶段二 · 减量",
+   "focus": "第二次减量：容量砍 40%，下周进入强化阶段",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢 · 技术",
+     "duration": 65,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 3×5 @65kg",
+        "硬拉 3×3 @85kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "前蹲 3×4 @55kg",
+        "单腿硬拉 3×8/腿"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "20min 轻松 Zone2"
+       ]
+      }
+     ],
+     "notes": "动作放慢，感受底部位置"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢 · 技术",
+     "duration": 65,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 3×5 @37.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 3×4",
+        "箱上倒立撑 3×4"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "10min AMRAP 轻松"
+       ]
+      }
+     ],
+     "notes": "倒立撑练「慢下、快上」"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 · 技术",
+     "duration": 75,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 4×2 @37.5kg",
+        "过顶深蹲 3×3 @35kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举复合 4 组：1 高翻 + 2 借力推 @45kg",
+        "前蹲 3×4 @55kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 4×(3min 快 / 2min 慢)"
+       ]
+      }
+     ],
+     "notes": "这周不追重量，只找速度"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "主动恢复",
+     "duration": 60,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "40min Zone2"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "泡沫轴 + 拉伸 15min"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "—"
+       ]
+      }
+     ],
+     "notes": "复盘前 7 周：WOD 完成了几次，配速有没有变好"
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "phase": "阶段三 · 强化",
+   "focus": "进入强化：WOD 变长，阈值进 8 分钟；目标是「在 cap 内完成」",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢力量 + 有氧底子",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 3×3 @90kg",
+        "硬拉 3×2 @110kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "前蹲 3×3 @77.5kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "15min Zone2"
+       ]
+      }
+     ],
+     "notes": "每组之间完全恢复（2.5–3min）"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢 + 长一点的 WOD",
+     "duration": 95,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 3×3 @55kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 5×5",
+        "墙面下放 5×2（倒立撑离心）"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "18min AMRAP（目标 5 轮）：",
+        "30 双摇 / 10 引体 / 10 哑铃推举 2×17.5kg / 200m"
+       ]
+      }
+     ],
+     "notes": "到第 3 轮还能保持配速，才叫有氧底子"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 + 阈值间歇",
+     "duration": 95,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 6×1 @55kg",
+        "过顶深蹲 3×2 @50kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举 5×1 @65kg",
+        "前蹲 3×3 @77.5kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 3×(8min 快 / 2min 慢)"
+       ]
+      }
+     ],
+     "notes": "8 分钟一组：这是「WOD 能不能完成」的直接指标"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "长有氧 + 技能",
+     "duration": 80,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "45min Zone2"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "技能：双力臂转换 6×2 / 双摇 5×70"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "核心 3×12 悬垂举腿"
+       ]
+      }
+     ],
+     "notes": "转换练习用手臂「钻」过去，不是拉上去"
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "phase": "阶段三 · 强化",
+   "focus": "最高负荷周：力量、奥举、WOD 同时到峰值，之后开始减量",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢力量 + 有氧底子",
+     "duration": 90,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 3×2 @92.5kg",
+        "硬拉 2×2 @112.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "前蹲 3×3 @80kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "15min Zone2"
+       ]
+      }
+     ],
+     "notes": "硬拉 112.5kg 只做 2×2，动作一变形就停"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢 + 长 WOD",
+     "duration": 95,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 3×3 @57.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 4×6",
+        "双力臂转换 6×2"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "20min AMRAP（目标 5 轮）：",
+        "400m 跑步机 / 15 壶铃摆 24kg / 10 波比 / 5 引体"
+       ]
+      }
+     ],
+     "notes": "这是 12 周最长的 WOD，配速比成绩重要"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 + 阈值间歇",
+     "duration": 95,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 5×1 @57.5kg",
+        "过顶深蹲 3×2 @52.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举 4×1 @67.5kg",
+        "前蹲 3×3 @80kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 2×(12min 快 / 3min 慢)"
+       ]
+      }
+     ],
+     "notes": "12 分钟一组，接近 WOD 的真实强度"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "长有氧 + 技能",
+     "duration": 80,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "50min Zone2"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "技能：双摇 5×80 / 墙倒立撑尝试"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "核心 3×45s 平板"
+       ]
+      }
+     ],
+     "notes": "之后只减不加"
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "phase": "阶段三 · 减量激活",
+   "focus": "赛前式减量：容量砍 40%，强度保留，让身体「醒着」去测试",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "下肢 · 激活",
+     "duration": 60,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 2×2 @95kg",
+        "硬拉 1×2 @115kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "前蹲 2×3 @82.5kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "20min 轻松 Zone2"
+       ]
+      }
+     ],
+     "notes": "重量不减，组数减半"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢 · 激活",
+     "duration": 65,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 2×2 @60kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体 3×4",
+        "箱上倒立撑 3×3"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "3 轮轻松（cap 12，目标 9min）：",
+        "300m 跑步机 / 10 哑铃高翻 2×15kg / 10 波比"
+       ]
+      }
+     ],
+     "notes": "保持神经兴奋度，不制造疲劳"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举 · 激活",
+     "duration": 75,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 4×1 @60kg",
+        "过顶深蹲 3×2 @55kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举 3×1 @70kg",
+        "前蹲 2×3 @82.5kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "阈值间歇 3×(4min 快 / 2min 慢)"
+       ]
+      }
+     ],
+     "notes": "每组都当比赛的一次试举"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "测试准备",
+     "duration": 55,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "30min Zone2"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "测最大连续双摇 / 拉伸 10min"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "—"
+       ]
+      }
+     ],
+     "notes": "测试周前别熬夜、别空腹训练"
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "phase": "阶段三 · 测试周",
+   "focus": "复测周：同条件对比第 1 周。测完这一周，再谈下一个 12 周",
+   "days": [
+    {
+     "day": 1,
+     "weekday": "周一",
+     "weekdayIndex": 1,
+     "title": "力量复测",
+     "duration": 80,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "背蹲 1RM：5-3-2-1 递进 → 试 100 / 105 / 110kg",
+        "（状态好再测硬拉 1RM，否则测 3RM）"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "引体/双摇只做轻量技术"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "10min Zone2"
+       ]
+      }
+     ],
+     "notes": "只加 2.5–5kg；动作变形即止，记录成功重量"
+    },
+    {
+     "day": 2,
+     "weekday": "周二",
+     "weekdayIndex": 2,
+     "title": "上肢与体操复测",
+     "duration": 70,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "站姿推举 3RM：试 60 / 62.5 / 65kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "最大严格引体 / 最大箱上倒立撑 / 最长连续双摇"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "10min 轻松单车"
+       ]
+      }
+     ],
+     "notes": "同一天别既测引体又测双力臂"
+    },
+    {
+     "day": 3,
+     "weekday": "周四",
+     "weekdayIndex": 4,
+     "title": "奥举复测",
+     "duration": 80,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "抓举 1RM：试 55 / 58 / 60 / 62.5kg"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "挺举 1RM：试 65 / 68 / 70 / 72.5kg"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "轻松拉伸"
+       ]
+      }
+     ],
+     "notes": "抓举失败 2 次就收；挺举同理"
+    },
+    {
+     "day": 4,
+     "weekday": "周五",
+     "weekdayIndex": 5,
+     "title": "基准 WOD 复测 + 体测",
+     "duration": 85,
+     "blocks": [
+      {
+       "label": "A · 主项",
+       "items": [
+        "基准 WOD 复测（与第 1 周完全相同的降阶版本）：",
+        "3 轮 300m 跑步机 / 10 哑铃高翻 2×15kg / 10 波比，计时"
+       ]
+      },
+      {
+       "label": "B · 辅助 / 技能",
+       "items": [
+        "体测：体重、腰围（脐部）、正面/侧面照"
+       ]
+      },
+      {
+       "label": "C · 代谢 / 有氧",
+       "items": [
+        "10min Zone2 + 复盘"
+       ]
+      }
+     ],
+     "notes": "填进「复测与打卡」，和第 1 周并排看"
+    }
+   ]
+  }
+ ]
+}

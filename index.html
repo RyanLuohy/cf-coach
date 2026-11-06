@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CF 教练</title>
+<meta name="theme-color" content="#111827">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="CF 教练">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header id="topbar">
+  <div class="kicker" id="kicker">第 1 周</div>
+  <h1 id="pagetitle">今天</h1>
+  <div class="sub" id="dateline"></div>
+</header>
+
+<main id="main">
+  <section id="tab-today" class="tab"></section>
+  <section id="tab-plan" class="tab hidden"></section>
+  <section id="tab-meals" class="tab hidden"></section>
+  <section id="tab-data" class="tab hidden"></section>
+  <section id="tab-settings" class="tab hidden"></section>
+</main>
+
+<nav id="tabbar">
+  <button data-tab="today" class="active"><i>◎</i><span>今天</span></button>
+  <button data-tab="plan"><i>▤</i><span>计划</span></button>
+  <button data-tab="meals"><i>◍</i><span>餐食</span></button>
+  <button data-tab="data"><i>◔</i><span>数据</span></button>
+  <button data-tab="settings"><i>⚙</i><span>设置</span></button>
+</nav>
+
+<div id="importModal" class="modal hidden">
+  <div class="modal-card">
+    <h3>粘贴健康数据</h3>
+    <p class="small muted">长按下面的框 →「粘贴」。</p>
+    <textarea id="importText" rows="5" placeholder="rhr=55&hrv=48&steps=8200&active=620&exercise=45&weight=89.4"></textarea>
+    <div id="importPreview" class="small" style="margin-top:10px;min-height:22px"></div>
+    <div class="row" style="gap:10px;margin-top:14px">
+      <button class="ghost" id="importCancel">取消</button>
+      <button class="primary" id="importOk">导入</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

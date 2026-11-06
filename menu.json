@@ -1,0 +1,1822 @@
+{
+ "days": [
+  {
+   "day": 1,
+   "weekday": "周一",
+   "weekdayIndex": 1,
+   "label": "训练日 · 中式家常",
+   "targetKcal": 2400,
+   "meals": [
+    {
+     "slot": "早餐",
+     "time": "7:00",
+     "items": [
+      {
+       "name": "燕麦",
+       "grams": 70
+      },
+      {
+       "name": "牛奶",
+       "grams": 300
+      },
+      {
+       "name": "鸡蛋",
+       "grams": 50
+      },
+      {
+       "name": "蛋白",
+       "grams": 100
+      },
+      {
+       "name": "蓝莓",
+       "grams": 80
+      }
+     ],
+     "kcal": 628.0,
+     "protein": 36.9,
+     "carbs": 73.5,
+     "fat": 20.9
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "米饭（熟）",
+       "grams": 270
+      },
+      {
+       "name": "鸡胸肉",
+       "grams": 145
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 7
+      }
+     ],
+     "kcal": 617.1,
+     "protein": 45.2,
+     "carbs": 83.9,
+     "fat": 12.4
+    },
+    {
+     "slot": "训练前",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "全麦面包",
+       "grams": 70
+      },
+      {
+       "name": "花生酱",
+       "grams": 10
+      }
+     ],
+     "kcal": 233.8,
+     "protein": 8.8,
+     "carbs": 33.5,
+     "fat": 7.4
+    },
+    {
+     "slot": "训练后",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "乳清蛋白粉",
+       "grams": 30
+      },
+      {
+       "name": "香蕉",
+       "grams": 100
+      }
+     ],
+     "kcal": 203.0,
+     "protein": 24.5,
+     "carbs": 25.4,
+     "fat": 1.8
+    },
+    {
+     "slot": "晚餐",
+     "time": "20:00",
+     "items": [
+      {
+       "name": "红薯",
+       "grams": 250
+      },
+      {
+       "name": "牛里脊",
+       "grams": 150
+      },
+      {
+       "name": "菠菜",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 10
+      }
+     ],
+     "kcal": 508.4,
+     "protein": 39.8,
+     "carbs": 57.2,
+     "fat": 14.5
+    },
+    {
+     "slot": "加餐",
+     "time": "22:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      },
+      {
+       "name": "混合坚果",
+       "grams": 15
+      }
+     ],
+     "kcal": 205.0,
+     "protein": 23.1,
+     "carbs": 10.5,
+     "fat": 8.3
+    }
+   ],
+   "totals": {
+    "kcal": 2395.3,
+    "protein": 178.4,
+    "carbs": 284.0,
+    "fat": 65.3
+   },
+   "restLabel": "休息版 · 训练日 · 中式家常",
+   "restMeals": [
+    {
+     "slot": "早餐",
+     "time": "7:00",
+     "items": [
+      {
+       "name": "燕麦",
+       "grams": 55
+      },
+      {
+       "name": "牛奶",
+       "grams": 300
+      },
+      {
+       "name": "鸡蛋",
+       "grams": 50
+      },
+      {
+       "name": "蛋白",
+       "grams": 100
+      },
+      {
+       "name": "蓝莓",
+       "grams": 80
+      }
+     ],
+     "kcal": 571.5,
+     "protein": 34.9,
+     "carbs": 63.6,
+     "fat": 19.8
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "米饭（熟）",
+       "grams": 335
+      },
+      {
+       "name": "鸡胸肉",
+       "grams": 145
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 7
+      }
+     ],
+     "kcal": 692.5,
+     "protein": 46.9,
+     "carbs": 100.8,
+     "fat": 12.6
+    },
+    {
+     "slot": "晚餐",
+     "time": "20:00",
+     "items": [
+      {
+       "name": "红薯",
+       "grams": 200
+      },
+      {
+       "name": "牛里脊",
+       "grams": 310
+      },
+      {
+       "name": "菠菜",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 10
+      }
+     ],
+     "kcal": 635.0,
+     "protein": 71.0,
+     "carbs": 47.2,
+     "fat": 18.1
+    },
+    {
+     "slot": "加餐",
+     "time": "22:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      },
+      {
+       "name": "混合坚果",
+       "grams": 15
+      }
+     ],
+     "kcal": 205.0,
+     "protein": 23.1,
+     "carbs": 10.5,
+     "fat": 8.3
+    }
+   ],
+   "restTotals": {
+    "kcal": 2103.9,
+    "protein": 176.0,
+    "carbs": 222.0,
+    "fat": 58.8
+   }
+  },
+  {
+   "day": 2,
+   "weekday": "周二",
+   "weekdayIndex": 2,
+   "label": "训练日 · 西式快手",
+   "targetKcal": 2400,
+   "meals": [
+    {
+     "slot": "早餐",
+     "time": "7:00",
+     "items": [
+      {
+       "name": "全麦面包",
+       "grams": 90
+      },
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "牛油果",
+       "grams": 40
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      }
+     ],
+     "kcal": 594.5,
+     "protein": 29.8,
+     "carbs": 57.3,
+     "fat": 27.6
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "意面（熟）",
+       "grams": 310
+      },
+      {
+       "name": "牛里脊",
+       "grams": 180
+      },
+      {
+       "name": "番茄",
+       "grams": 150
+      },
+      {
+       "name": "橄榄油",
+       "grams": 5
+      }
+     ],
+     "kcal": 668.1,
+     "protein": 52.9,
+     "carbs": 83.3,
+     "fat": 12.9
+    },
+    {
+     "slot": "训练前",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "香蕉",
+       "grams": 150
+      },
+      {
+       "name": "希腊酸奶",
+       "grams": 150
+      }
+     ],
+     "kcal": 222.0,
+     "protein": 16.6,
+     "carbs": 39.9,
+     "fat": 1.1
+    },
+    {
+     "slot": "训练后",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "乳清蛋白粉",
+       "grams": 30
+      }
+     ],
+     "kcal": 114.0,
+     "protein": 23.4,
+     "carbs": 2.4,
+     "fat": 1.5
+    },
+    {
+     "slot": "晚餐",
+     "time": "20:00",
+     "items": [
+      {
+       "name": "三文鱼",
+       "grams": 120
+      },
+      {
+       "name": "土豆",
+       "grams": 300
+      },
+      {
+       "name": "芦笋",
+       "grams": 150
+      },
+      {
+       "name": "橄榄油",
+       "grams": 5
+      }
+     ],
+     "kcal": 554.8,
+     "protein": 33.3,
+     "carbs": 56.9,
+     "fat": 21.1
+    },
+    {
+     "slot": "加餐",
+     "time": "22:00",
+     "items": [
+      {
+       "name": "苹果",
+       "grams": 150
+      },
+      {
+       "name": "希腊酸奶",
+       "grams": 150
+      },
+      {
+       "name": "混合坚果",
+       "grams": 10
+      }
+     ],
+     "kcal": 224.5,
+     "protein": 17.6,
+     "carbs": 28.6,
+     "fat": 5.9
+    }
+   ],
+   "totals": {
+    "kcal": 2377.9,
+    "protein": 173.5,
+    "carbs": 268.4,
+    "fat": 70.0
+   },
+   "restLabel": "休息版 · 训练日 · 西式快手",
+   "restMeals": [
+    {
+     "slot": "早餐",
+     "time": "7:00",
+     "items": [
+      {
+       "name": "全麦面包",
+       "grams": 70
+      },
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "牛油果",
+       "grams": 40
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      }
+     ],
+     "kcal": 544.5,
+     "protein": 27.9,
+     "carbs": 48.3,
+     "fat": 26.9
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "意面（熟）",
+       "grams": 250
+      },
+      {
+       "name": "牛里脊",
+       "grams": 420
+      },
+      {
+       "name": "番茄",
+       "grams": 150
+      },
+      {
+       "name": "橄榄油",
+       "grams": 5
+      }
+     ],
+     "kcal": 843.9,
+     "protein": 97.8,
+     "carbs": 68.3,
+     "fat": 17.7
+    },
+    {
+     "slot": "晚餐",
+     "time": "20:00",
+     "items": [
+      {
+       "name": "三文鱼",
+       "grams": 120
+      },
+      {
+       "name": "土豆",
+       "grams": 240
+      },
+      {
+       "name": "芦笋",
+       "grams": 150
+      },
+      {
+       "name": "橄榄油",
+       "grams": 5
+      }
+     ],
+     "kcal": 508.6,
+     "protein": 32.1,
+     "carbs": 46.6,
+     "fat": 21.0
+    },
+    {
+     "slot": "加餐",
+     "time": "22:00",
+     "items": [
+      {
+       "name": "苹果",
+       "grams": 150
+      },
+      {
+       "name": "希腊酸奶",
+       "grams": 150
+      },
+      {
+       "name": "混合坚果",
+       "grams": 10
+      }
+     ],
+     "kcal": 224.5,
+     "protein": 17.6,
+     "carbs": 28.6,
+     "fat": 5.9
+    }
+   ],
+   "restTotals": {
+    "kcal": 2121.5,
+    "protein": 175.5,
+    "carbs": 191.9,
+    "fat": 71.5
+   }
+  },
+  {
+   "day": 3,
+   "weekday": "周三",
+   "weekdayIndex": 3,
+   "label": "休息日 · 高蛋白",
+   "targetKcal": 2200,
+   "meals": [
+    {
+     "slot": "早餐",
+     "time": "7:30",
+     "items": [
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "全麦面包",
+       "grams": 80
+      },
+      {
+       "name": "牛奶",
+       "grams": 200
+      },
+      {
+       "name": "蓝莓",
+       "grams": 80
+      }
+     ],
+     "kcal": 518.6,
+     "protein": 27.0,
+     "carbs": 57.9,
+     "fat": 19.7
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "鸡腿肉（去皮）",
+       "grams": 165
+      },
+      {
+       "name": "糙米饭（熟）",
+       "grams": 300
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 714.0,
+     "protein": 44.8,
+     "carbs": 83.0,
+     "fat": 23.9
+    },
+    {
+     "slot": "加餐",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      },
+      {
+       "name": "蓝莓",
+       "grams": 60
+      }
+     ],
+     "kcal": 152.2,
+     "protein": 20.4,
+     "carbs": 15.6,
+     "fat": 1.0
+    },
+    {
+     "slot": "晚餐",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "虾仁",
+       "grams": 170
+      },
+      {
+       "name": "北豆腐",
+       "grams": 150
+      },
+      {
+       "name": "蘑菇",
+       "grams": 150
+      },
+      {
+       "name": "菠菜",
+       "grams": 150
+      },
+      {
+       "name": "红薯",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 615.3,
+     "protein": 60.8,
+     "carbs": 55.0,
+     "fat": 18.1
+    },
+    {
+     "slot": "加餐",
+     "time": "21:30",
+     "items": [
+      {
+       "name": "混合坚果",
+       "grams": 10
+      },
+      {
+       "name": "乳清蛋白粉",
+       "grams": 30
+      }
+     ],
+     "kcal": 172.0,
+     "protein": 25.5,
+     "carbs": 4.6,
+     "fat": 6.5
+    }
+   ],
+   "totals": {
+    "kcal": 2172.1,
+    "protein": 178.4,
+    "carbs": 216.1,
+    "fat": 69.2
+   },
+   "restLabel": "休息版 · 休息日 · 高蛋白",
+   "restMeals": [
+    {
+     "slot": "早餐",
+     "time": "7:30",
+     "items": [
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "全麦面包",
+       "grams": 65
+      },
+      {
+       "name": "牛奶",
+       "grams": 200
+      },
+      {
+       "name": "蓝莓",
+       "grams": 80
+      }
+     ],
+     "kcal": 481.1,
+     "protein": 25.6,
+     "carbs": 51.2,
+     "fat": 19.2
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "鸡腿肉（去皮）",
+       "grams": 165
+      },
+      {
+       "name": "糙米饭（熟）",
+       "grams": 300
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 714.0,
+     "protein": 44.8,
+     "carbs": 83.0,
+     "fat": 23.9
+    },
+    {
+     "slot": "加餐",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      },
+      {
+       "name": "蓝莓",
+       "grams": 60
+      }
+     ],
+     "kcal": 152.2,
+     "protein": 20.4,
+     "carbs": 15.6,
+     "fat": 1.0
+    },
+    {
+     "slot": "晚餐",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "虾仁",
+       "grams": 170
+      },
+      {
+       "name": "北豆腐",
+       "grams": 150
+      },
+      {
+       "name": "蘑菇",
+       "grams": 150
+      },
+      {
+       "name": "菠菜",
+       "grams": 150
+      },
+      {
+       "name": "红薯",
+       "grams": 160
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 580.9,
+     "protein": 60.2,
+     "carbs": 47.0,
+     "fat": 18.1
+    },
+    {
+     "slot": "加餐",
+     "time": "21:30",
+     "items": [
+      {
+       "name": "混合坚果",
+       "grams": 10
+      },
+      {
+       "name": "乳清蛋白粉",
+       "grams": 30
+      }
+     ],
+     "kcal": 172.0,
+     "protein": 25.5,
+     "carbs": 4.6,
+     "fat": 6.5
+    }
+   ],
+   "restTotals": {
+    "kcal": 2100.2,
+    "protein": 176.4,
+    "carbs": 201.4,
+    "fat": 68.7
+   }
+  },
+  {
+   "day": 4,
+   "weekday": "周四",
+   "weekdayIndex": 4,
+   "label": "训练日 · 中式",
+   "targetKcal": 2400,
+   "meals": [
+    {
+     "slot": "早餐",
+     "time": "7:00",
+     "items": [
+      {
+       "name": "燕麦",
+       "grams": 70
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      },
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "香蕉",
+       "grams": 100
+      }
+     ],
+     "kcal": 658.4,
+     "protein": 31.1,
+     "carbs": 82.4,
+     "fat": 23.7
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "米饭（熟）",
+       "grams": 270
+      },
+      {
+       "name": "鸡胸肉",
+       "grams": 185
+      },
+      {
+       "name": "番茄",
+       "grams": 150
+      },
+      {
+       "name": "生菜",
+       "grams": 100
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 647.9,
+     "protein": 51.4,
+     "carbs": 78.7,
+     "fat": 14.1
+    },
+    {
+     "slot": "训练前",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "全麦面包",
+       "grams": 60
+      },
+      {
+       "name": "花生酱",
+       "grams": 12
+      }
+     ],
+     "kcal": 220.6,
+     "protein": 8.4,
+     "carbs": 29.4,
+     "fat": 8.1
+    },
+    {
+     "slot": "训练后",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "乳清蛋白粉",
+       "grams": 30
+      },
+      {
+       "name": "香蕉",
+       "grams": 100
+      }
+     ],
+     "kcal": 203.0,
+     "protein": 24.5,
+     "carbs": 25.4,
+     "fat": 1.8
+    },
+    {
+     "slot": "晚餐",
+     "time": "20:00",
+     "items": [
+      {
+       "name": "牛腩",
+       "grams": 160
+      },
+      {
+       "name": "红薯",
+       "grams": 250
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 5
+      }
+     ],
+     "kcal": 524.0,
+     "protein": 36.8,
+     "carbs": 64.0,
+     "fat": 14.7
+    },
+    {
+     "slot": "加餐",
+     "time": "22:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      }
+     ],
+     "kcal": 118.0,
+     "protein": 20.0,
+     "carbs": 7.2,
+     "fat": 0.8
+    }
+   ],
+   "totals": {
+    "kcal": 2371.9,
+    "protein": 172.1,
+    "carbs": 287.1,
+    "fat": 63.2
+   },
+   "restLabel": "休息版 · 训练日 · 中式",
+   "restMeals": [
+    {
+     "slot": "早餐",
+     "time": "7:00",
+     "items": [
+      {
+       "name": "燕麦",
+       "grams": 55
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      },
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "香蕉",
+       "grams": 80
+      }
+     ],
+     "kcal": 584.1,
+     "protein": 28.9,
+     "carbs": 67.9,
+     "fat": 22.6
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "米饭（熟）",
+       "grams": 315
+      },
+      {
+       "name": "鸡胸肉",
+       "grams": 365
+      },
+      {
+       "name": "番茄",
+       "grams": 150
+      },
+      {
+       "name": "生菜",
+       "grams": 100
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 916.1,
+     "protein": 93.1,
+     "carbs": 90.3,
+     "fat": 18.9
+    },
+    {
+     "slot": "晚餐",
+     "time": "20:00",
+     "items": [
+      {
+       "name": "牛腩",
+       "grams": 160
+      },
+      {
+       "name": "红薯",
+       "grams": 200
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 5
+      }
+     ],
+     "kcal": 481.0,
+     "protein": 36.0,
+     "carbs": 54.0,
+     "fat": 14.6
+    },
+    {
+     "slot": "加餐",
+     "time": "22:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      }
+     ],
+     "kcal": 118.0,
+     "protein": 20.0,
+     "carbs": 7.2,
+     "fat": 0.8
+    }
+   ],
+   "restTotals": {
+    "kcal": 2099.2,
+    "protein": 177.9,
+    "carbs": 219.4,
+    "fat": 57.0
+   }
+  },
+  {
+   "day": 6,
+   "weekday": "周五",
+   "weekdayIndex": 5,
+   "label": "训练日 + 长有氧 · 高碳",
+   "targetKcal": 2400,
+   "meals": [
+    {
+     "slot": "早餐",
+     "time": "7:00",
+     "items": [
+      {
+       "name": "燕麦",
+       "grams": 80
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      },
+      {
+       "name": "鸡蛋",
+       "grams": 50
+      },
+      {
+       "name": "蛋白",
+       "grams": 100
+      },
+      {
+       "name": "香蕉",
+       "grams": 120
+      },
+      {
+       "name": "牛油果",
+       "grams": 40
+      }
+     ],
+     "kcal": 758.4,
+     "protein": 38.1,
+     "carbs": 97.5,
+     "fat": 25.9
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "米饭（熟）",
+       "grams": 200
+      },
+      {
+       "name": "牛里脊",
+       "grams": 150
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 529.7,
+     "protein": 40.8,
+     "carbs": 65.8,
+     "fat": 12.8
+    },
+    {
+     "slot": "训练前",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "全麦面包",
+       "grams": 70
+      },
+      {
+       "name": "蜂蜜",
+       "grams": 15
+      }
+     ],
+     "kcal": 220.6,
+     "protein": 6.3,
+     "carbs": 43.8,
+     "fat": 2.4
+    },
+    {
+     "slot": "训练后",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "乳清蛋白粉",
+       "grams": 30
+      },
+      {
+       "name": "香蕉",
+       "grams": 120
+      }
+     ],
+     "kcal": 220.8,
+     "protein": 24.7,
+     "carbs": 30.0,
+     "fat": 1.9
+    },
+    {
+     "slot": "晚餐",
+     "time": "20:00",
+     "items": [
+      {
+       "name": "鸡胸肉",
+       "grams": 155
+      },
+      {
+       "name": "红薯",
+       "grams": 210
+      },
+      {
+       "name": "菠菜",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 483.3,
+     "protein": 44.0,
+     "carbs": 49.2,
+     "fat": 13.0
+    },
+    {
+     "slot": "加餐",
+     "time": "22:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      },
+      {
+       "name": "蓝莓",
+       "grams": 80
+      },
+      {
+       "name": "混合坚果",
+       "grams": 10
+      }
+     ],
+     "kcal": 221.6,
+     "protein": 22.7,
+     "carbs": 20.6,
+     "fat": 6.0
+    }
+   ],
+   "totals": {
+    "kcal": 2434.4,
+    "protein": 176.6,
+    "carbs": 306.9,
+    "fat": 62.2
+   },
+   "restLabel": "休息版 · 训练日 + 长有氧 · 高碳",
+   "restMeals": [
+    {
+     "slot": "早餐",
+     "time": "7:00",
+     "items": [
+      {
+       "name": "燕麦",
+       "grams": 65
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      },
+      {
+       "name": "鸡蛋",
+       "grams": 50
+      },
+      {
+       "name": "蛋白",
+       "grams": 100
+      },
+      {
+       "name": "香蕉",
+       "grams": 95
+      },
+      {
+       "name": "牛油果",
+       "grams": 40
+      }
+     ],
+     "kcal": 679.6,
+     "protein": 35.8,
+     "carbs": 81.9,
+     "fat": 24.8
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "米饭（熟）",
+       "grams": 160
+      },
+      {
+       "name": "牛里脊",
+       "grams": 150
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 483.3,
+     "protein": 39.8,
+     "carbs": 55.4,
+     "fat": 12.7
+    },
+    {
+     "slot": "晚餐",
+     "time": "20:00",
+     "items": [
+      {
+       "name": "鸡胸肉",
+       "grams": 295
+      },
+      {
+       "name": "红薯",
+       "grams": 290
+      },
+      {
+       "name": "菠菜",
+       "grams": 200
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 720.1,
+     "protein": 76.8,
+     "carbs": 65.2,
+     "fat": 16.8
+    },
+    {
+     "slot": "加餐",
+     "time": "22:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      },
+      {
+       "name": "蓝莓",
+       "grams": 80
+      },
+      {
+       "name": "混合坚果",
+       "grams": 10
+      }
+     ],
+     "kcal": 221.6,
+     "protein": 22.7,
+     "carbs": 20.6,
+     "fat": 6.0
+    }
+   ],
+   "restTotals": {
+    "kcal": 2104.6,
+    "protein": 175.1,
+    "carbs": 223.1,
+    "fat": 60.3
+   }
+  },
+  {
+   "day": 5,
+   "weekday": "周六",
+   "weekdayIndex": 6,
+   "label": "休息日 · 简单",
+   "targetKcal": 2200,
+   "meals": [
+    {
+     "slot": "早餐",
+     "time": "7:30",
+     "items": [
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "蛋白",
+       "grams": 100
+      },
+      {
+       "name": "燕麦",
+       "grams": 60
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      },
+      {
+       "name": "蓝莓",
+       "grams": 100
+      }
+     ],
+     "kcal": 640.7,
+     "protein": 40.4,
+     "carbs": 67.5,
+     "fat": 23.2
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "鸡胸肉",
+       "grams": 195
+      },
+      {
+       "name": "藜麦（熟）",
+       "grams": 300
+      },
+      {
+       "name": "西兰花",
+       "grams": 150
+      },
+      {
+       "name": "番茄",
+       "grams": 100
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 733.7,
+     "protein": 62.2,
+     "carbs": 77.4,
+     "fat": 19.6
+    },
+    {
+     "slot": "加餐",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "苹果",
+       "grams": 150
+      },
+      {
+       "name": "混合坚果",
+       "grams": 15
+      },
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      }
+     ],
+     "kcal": 283.0,
+     "protein": 23.6,
+     "carbs": 31.5,
+     "fat": 8.6
+    },
+    {
+     "slot": "晚餐",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "鲈鱼",
+       "grams": 210
+      },
+      {
+       "name": "土豆",
+       "grams": 290
+      },
+      {
+       "name": "芦笋",
+       "grams": 150
+      },
+      {
+       "name": "橄榄油",
+       "grams": 5
+      }
+     ],
+     "kcal": 518.0,
+     "protein": 48.2,
+     "carbs": 55.1,
+     "fat": 12.6
+    }
+   ],
+   "totals": {
+    "kcal": 2175.4,
+    "protein": 174.3,
+    "carbs": 231.5,
+    "fat": 63.9
+   },
+   "restLabel": "休息版 · 休息日 · 简单",
+   "restMeals": [
+    {
+     "slot": "早餐",
+     "time": "7:30",
+     "items": [
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "蛋白",
+       "grams": 100
+      },
+      {
+       "name": "燕麦",
+       "grams": 50
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      },
+      {
+       "name": "蓝莓",
+       "grams": 100
+      }
+     ],
+     "kcal": 603.0,
+     "protein": 39.1,
+     "carbs": 60.9,
+     "fat": 22.5
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "鸡胸肉",
+       "grams": 195
+      },
+      {
+       "name": "藜麦（熟）",
+       "grams": 300
+      },
+      {
+       "name": "西兰花",
+       "grams": 150
+      },
+      {
+       "name": "番茄",
+       "grams": 100
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 733.7,
+     "protein": 62.2,
+     "carbs": 77.4,
+     "fat": 19.6
+    },
+    {
+     "slot": "加餐",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "苹果",
+       "grams": 150
+      },
+      {
+       "name": "混合坚果",
+       "grams": 15
+      },
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      }
+     ],
+     "kcal": 283.0,
+     "protein": 23.6,
+     "carbs": 31.5,
+     "fat": 8.6
+    },
+    {
+     "slot": "晚餐",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "鲈鱼",
+       "grams": 230
+      },
+      {
+       "name": "土豆",
+       "grams": 230
+      },
+      {
+       "name": "芦笋",
+       "grams": 150
+      },
+      {
+       "name": "橄榄油",
+       "grams": 5
+      }
+     ],
+     "kcal": 492.8,
+     "protein": 50.7,
+     "carbs": 44.9,
+     "fat": 13.2
+    }
+   ],
+   "restTotals": {
+    "kcal": 2112.5,
+    "protein": 175.5,
+    "carbs": 214.8,
+    "fat": 63.9
+   }
+  },
+  {
+   "day": 7,
+   "weekday": "周日",
+   "weekdayIndex": 7,
+   "label": "休息日 · 家常",
+   "targetKcal": 2200,
+   "meals": [
+    {
+     "slot": "早餐",
+     "time": "7:30",
+     "items": [
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "全麦面包",
+       "grams": 80
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      },
+      {
+       "name": "番茄",
+       "grams": 100
+      }
+     ],
+     "kcal": 523.5,
+     "protein": 28.9,
+     "carbs": 53.1,
+     "fat": 21.5
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "米饭（熟）",
+       "grams": 280
+      },
+      {
+       "name": "牛里脊",
+       "grams": 170
+      },
+      {
+       "name": "青椒",
+       "grams": 150
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 608.7,
+     "protein": 42.8,
+     "carbs": 80.6,
+     "fat": 13.1
+    },
+    {
+     "slot": "加餐",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      },
+      {
+       "name": "混合坚果",
+       "grams": 15
+      }
+     ],
+     "kcal": 205.0,
+     "protein": 23.1,
+     "carbs": 10.5,
+     "fat": 8.3
+    },
+    {
+     "slot": "晚餐",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "北豆腐",
+       "grams": 200
+      },
+      {
+       "name": "虾仁",
+       "grams": 120
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "红薯",
+       "grams": 230
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 644.1,
+     "protein": 54.9,
+     "carbs": 65.2,
+     "fat": 19.8
+    },
+    {
+     "slot": "加餐",
+     "time": "21:30",
+     "items": [
+      {
+       "name": "苹果",
+       "grams": 150
+      },
+      {
+       "name": "乳清蛋白粉",
+       "grams": 30
+      }
+     ],
+     "kcal": 192.0,
+     "protein": 23.8,
+     "carbs": 23.4,
+     "fat": 1.8
+    }
+   ],
+   "totals": {
+    "kcal": 2173.3,
+    "protein": 173.6,
+    "carbs": 232.8,
+    "fat": 64.5
+   },
+   "restLabel": "休息版 · 休息日 · 家常",
+   "restMeals": [
+    {
+     "slot": "早餐",
+     "time": "7:30",
+     "items": [
+      {
+       "name": "鸡蛋",
+       "grams": 100
+      },
+      {
+       "name": "全麦面包",
+       "grams": 65
+      },
+      {
+       "name": "牛奶",
+       "grams": 250
+      },
+      {
+       "name": "番茄",
+       "grams": 100
+      }
+     ],
+     "kcal": 486.0,
+     "protein": 27.6,
+     "carbs": 46.4,
+     "fat": 21.0
+    },
+    {
+     "slot": "午餐",
+     "time": "12:00",
+     "items": [
+      {
+       "name": "米饭（熟）",
+       "grams": 265
+      },
+      {
+       "name": "牛里脊",
+       "grams": 170
+      },
+      {
+       "name": "青椒",
+       "grams": 150
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 591.3,
+     "protein": 42.4,
+     "carbs": 76.7,
+     "fat": 13.0
+    },
+    {
+     "slot": "加餐",
+     "time": "16:00",
+     "items": [
+      {
+       "name": "希腊酸奶",
+       "grams": 200
+      },
+      {
+       "name": "混合坚果",
+       "grams": 15
+      }
+     ],
+     "kcal": 205.0,
+     "protein": 23.1,
+     "carbs": 10.5,
+     "fat": 8.3
+    },
+    {
+     "slot": "晚餐",
+     "time": "19:00",
+     "items": [
+      {
+       "name": "北豆腐",
+       "grams": 220
+      },
+      {
+       "name": "虾仁",
+       "grams": 120
+      },
+      {
+       "name": "西兰花",
+       "grams": 200
+      },
+      {
+       "name": "红薯",
+       "grams": 185
+      },
+      {
+       "name": "橄榄油",
+       "grams": 8
+      }
+     ],
+     "kcal": 625.0,
+     "protein": 56.6,
+     "carbs": 56.6,
+     "fat": 20.7
+    },
+    {
+     "slot": "加餐",
+     "time": "21:30",
+     "items": [
+      {
+       "name": "苹果",
+       "grams": 150
+      },
+      {
+       "name": "乳清蛋白粉",
+       "grams": 30
+      }
+     ],
+     "kcal": 192.0,
+     "protein": 23.8,
+     "carbs": 23.4,
+     "fat": 1.8
+    }
+   ],
+   "restTotals": {
+    "kcal": 2099.3,
+    "protein": 173.6,
+    "carbs": 213.6,
+    "fat": 64.8
+   }
+  }
+ ],
+ "targets": {
+  "kcal": 2300,
+  "protein": 175,
+  "carbs": 250,
+  "fat": 65
+ }
+}

@@ -1,0 +1,1184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CF Coach//Daily 0720//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CF 教练（每天 7:20）
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cf-daily-1@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261108T232000Z
+DTEND:20261108T234000Z
+SUMMARY:练 下肢力量 + 有氧底子（W1）
+DESCRIPTION:【训练】第 1 周 · Day 1 · 下肢力量 + 有氧底子
+ （85 分钟）\n\nA 主项\n· 背蹲 5×5 @70kg（RPE 6–7，组间 2.5
+ min）\n\nB 辅助 / 技能\n· 硬拉 3×5 @85kg（每下从地面重新
+ 起）\n· 保加利亚分腿蹲 3×8/腿（自重）\n\nC 代谢 / 有氧
+ \n· 15min Zone2：单车或坡度走\n· 心率 125–135，能完整说
+ 话\n\n【注意】每组留 2–3 次余力；这周目标是「练完还
+ 想练」\n\n【餐食】2395 kcal · 蛋白 178g\n早餐 7:00  燕麦70 
+ 牛奶300 鸡蛋50 蛋白100 蓝莓80\n午餐 12:00  米饭（熟）270 
+ 鸡胸肉145 西兰花200 橄榄油7\n训练前 16:00  全麦面包70 花
+ 生酱10\n训练后 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  红
+ 薯250 牛里脊150 菠菜200 橄榄油10\n加餐 22:00  希腊酸奶200 
+ 混合坚果15\n\n不练的话，在 App 里切「今天不练」，餐单
+ 会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢力量 + 有氧底子（W1）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-2@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261109T232000Z
+DTEND:20261109T234000Z
+SUMMARY:练 上肢推拉 + 短 WOD（W1）
+DESCRIPTION:【训练】第 1 周 · Day 2 · 上肢推拉 + 短 WOD（85 
+ 分钟）\n\nA 主项\n· 站姿推举 5×5 @40kg\n\nB 辅助 / 技能\n·
+  引体 4×3–5（可弹力带）\n· 墙撑 3×40s\n· 箱上倒立撑 3
+ ×5\n\nC 代谢 / 有氧\n· 短 WOD（cap 12，目标 9–10min）：\n·
+  3 轮 300m 跑步机 / 10 哑铃高翻 2×15kg / 10 波比\n\n【注意
+ 】起手用 80% 努力，最后一轮加速；完不成记下停在哪\n\
+ n【餐食】2378 kcal · 蛋白 174g\n早餐 7:00  全麦面包90 鸡蛋1
+ 00 牛油果40 牛奶250\n午餐 12:00  意面（熟）310 牛里脊180 
+ 番茄150 橄榄油5\n训练前 16:00  香蕉150 希腊酸奶150\n训练
+ 后 19:00  乳清蛋白粉30\n晚餐 20:00  三文鱼120 土豆300 芦笋1
+ 50 橄榄油5\n加餐 22:00  苹果150 希腊酸奶150 混合坚果10\n\n
+ 不练的话，在 App 里切「今天不练」，餐单会自动换休息
+ 版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢推拉 + 短 WOD（W1）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-3@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261111T232000Z
+DTEND:20261111T234000Z
+SUMMARY:练 奥举 + 阈值间歇（W1）
+DESCRIPTION:【训练】第 1 周 · Day 3 · 奥举 + 阈值间歇（90 
+ 分钟）\n\nA 主项\n· 抓举复合 5 组：1 抓 + 2 过顶深蹲 @40k
+ g\n· 过顶深蹲 3×5 @35kg\n\nB 辅助 / 技能\n· 挺举复合 5 组
+ ：1 高翻 + 2 借力推 @50kg\n· 前蹲 4×6 @60kg\n\nC 代谢 / 有氧
+ \n· 阈值间歇 5×(3min 单车快 / 2min 慢)\n· 快段：能说短句
+ 、说不出长句\n\n【注意】抓举接住停 1 秒；第一组别冲
+ 到顶\n\n【餐食】2372 kcal · 蛋白 172g\n早餐 7:00  燕麦70 牛
+ 奶250 鸡蛋100 香蕉100\n午餐 12:00  米饭（熟）270 鸡胸肉185 
+ 番茄150 生菜100 橄榄油8\n训练前 16:00  全麦面包60 花生酱1
+ 2\n训练后 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  牛腩160 
+ 红薯250 西兰花200 橄榄油5\n加餐 22:00  希腊酸奶200\n\n不练
+ 的话，在 App 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 + 阈值间歇（W1）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-4@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261112T232000Z
+DTEND:20261112T234000Z
+SUMMARY:练 长有氧 + 技能（W1）
+DESCRIPTION:【训练】第 1 周 · Day 4 · 长有氧 + 技能（70 分
+ 钟）\n\nA 主项\n· 40min Zone2：单车或坡度走\n· 心率 125–1
+ 40，全程能对话\n\nB 辅助 / 技能\n· 技能 15min：双摇 5×30 
+ / 肩胛引体 3×6 / 悬垂 3×20s\n\nC 代谢 / 有氧\n· 核心 3×(30
+ s 平板 + 30s 侧板)\n\n【注意】这天不追强度；这是本周最
+ 重要的一节课，别省\n\n【餐食】2434 kcal · 蛋白 177g\n早
+ 餐 7:00  燕麦80 牛奶250 鸡蛋50 蛋白100 香蕉120 牛油果40\n午
+ 餐 12:00  米饭（熟）200 牛里脊150 西兰花200 橄榄油8\n训练
+ 前 16:00  全麦面包70 蜂蜜15\n训练后 19:00  乳清蛋白粉30 香
+ 蕉120\n晚餐 20:00  鸡胸肉155 红薯210 菠菜200 橄榄油8\n加餐 
+ 22:00  希腊酸奶200 蓝莓80 混合坚果10\n\n不练的话，在 App 
+ 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 长有氧 + 技能（W1）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-5@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261115T232000Z
+DTEND:20261115T234000Z
+SUMMARY:练 下肢力量 + 有氧底子（W2）
+DESCRIPTION:【训练】第 2 周 · Day 1 · 下肢力量 + 有氧底子
+ （85 分钟）\n\nA 主项\n· 背蹲 5×5 @75kg\n\nB 辅助 / 技能\n·
+  硬拉 4×5 @90kg（每下从地面重新起）\n· 保加利亚分腿蹲
+  3×8/腿（2×8kg）\n\nC 代谢 / 有氧\n· 15min Zone2：心率 130–
+ 140\n\n【注意】加量后如果 RPE 到 8，下周原地重复\n\n【
+ 餐食】2395 kcal · 蛋白 178g\n早餐 7:00  燕麦70 牛奶300 鸡蛋5
+ 0 蛋白100 蓝莓80\n午餐 12:00  米饭（熟）270 鸡胸肉145 西兰
+ 花200 橄榄油7\n训练前 16:00  全麦面包70 花生酱10\n训练后 
+ 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  红薯250 牛里脊150 
+ 菠菜200 橄榄油10\n加餐 22:00  希腊酸奶200 混合坚果15\n\n不
+ 练的话，在 App 里切「今天不练」，餐单会自动换休息版
+ 。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢力量 + 有氧底子（W2）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-6@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261116T232000Z
+DTEND:20261116T234000Z
+SUMMARY:练 上肢推拉 + 短 WOD（W2）
+DESCRIPTION:【训练】第 2 周 · Day 2 · 上肢推拉 + 短 WOD（85 
+ 分钟）\n\nA 主项\n· 站姿推举 5×5 @42.5kg\n\nB 辅助 / 技能\n
+ · 引体 4×4\n· 箱上倒立撑 4×5\n\nC 代谢 / 有氧\n· 12min AMR
+ AP（目标 6 轮）：\n· 200m 跑步机 / 8 哑铃推举 2×15kg / 12 
+ 双摇\n\n【注意】按轮次配速：每轮控制在 90 秒左右\n\n
+ 【餐食】2378 kcal · 蛋白 174g\n早餐 7:00  全麦面包90 鸡蛋10
+ 0 牛油果40 牛奶250\n午餐 12:00  意面（熟）310 牛里脊180 番
+ 茄150 橄榄油5\n训练前 16:00  香蕉150 希腊酸奶150\n训练后 1
+ 9:00  乳清蛋白粉30\n晚餐 20:00  三文鱼120 土豆300 芦笋150 
+ 橄榄油5\n加餐 22:00  苹果150 希腊酸奶150 混合坚果10\n\n不
+ 练的话，在 App 里切「今天不练」，餐单会自动换休息版
+ 。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢推拉 + 短 WOD（W2）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-7@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261118T232000Z
+DTEND:20261118T234000Z
+SUMMARY:练 奥举 + 阈值间歇（W2）
+DESCRIPTION:【训练】第 2 周 · Day 3 · 奥举 + 阈值间歇（90 
+ 分钟）\n\nA 主项\n· 抓举 6×2 @42.5kg\n· 过顶深蹲 3×5 @37.5k
+ g\n\nB 辅助 / 技能\n· 挺举 5×2 @52.5kg\n· 前蹲 4×6 @62.5kg\n\n
+ C 代谢 / 有氧\n· 阈值间歇 5×(3min 快 / 2min 慢)\n\n【注意
+ 】抓举若连续两次接不稳，降 2.5kg\n\n【餐食】2372 kcal · 
+ 蛋白 172g\n早餐 7:00  燕麦70 牛奶250 鸡蛋100 香蕉100\n午餐 1
+ 2:00  米饭（熟）270 鸡胸肉185 番茄150 生菜100 橄榄油8\n训
+ 练前 16:00  全麦面包60 花生酱12\n训练后 19:00  乳清蛋白粉
+ 30 香蕉100\n晚餐 20:00  牛腩160 红薯250 西兰花200 橄榄油5\n
+ 加餐 22:00  希腊酸奶200\n\n不练的话，在 App 里切「今天不
+ 练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 + 阈值间歇（W2）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-8@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261119T232000Z
+DTEND:20261119T234000Z
+SUMMARY:练 长有氧 + 技能（W2）
+DESCRIPTION:【训练】第 2 周 · Day 4 · 长有氧 + 技能（70 分
+ 钟）\n\nA 主项\n· 40min Zone2\n\nB 辅助 / 技能\n· 技能：悬
+ 垂摆动 3×5（蝶式预备）/ 双摇 5×35\n\nC 代谢 / 有氧\n· 
+ 核心 3×(30s 平板 + 30s 侧板)\n\n【注意】悬垂摆动练髋，
+ 不用手臂拉\n\n【餐食】2434 kcal · 蛋白 177g\n早餐 7:00  燕
+ 麦80 牛奶250 鸡蛋50 蛋白100 香蕉120 牛油果40\n午餐 12:00  
+ 米饭（熟）200 牛里脊150 西兰花200 橄榄油8\n训练前 16:00  
+ 全麦面包70 蜂蜜15\n训练后 19:00  乳清蛋白粉30 香蕉120\n晚
+ 餐 20:00  鸡胸肉155 红薯210 菠菜200 橄榄油8\n加餐 22:00  希
+ 腊酸奶200 蓝莓80 混合坚果10\n\n不练的话，在 App 里切「
+ 今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 长有氧 + 技能（W2）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-9@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261122T232000Z
+DTEND:20261122T234000Z
+SUMMARY:练 下肢力量 + 有氧底子（W3）
+DESCRIPTION:【训练】第 3 周 · Day 1 · 下肢力量 + 有氧底子
+ （90 分钟）\n\nA 主项\n· 背蹲 5×5 @77.5kg\n\nB 辅助 / 技能\n
+ · 硬拉 4×5 @95kg\n· 保加利亚分腿蹲 3×8/腿（2×10kg）\n\nC 
+ 代谢 / 有氧\n· 20min Zone2：心率 130–140\n\n【注意】深蹲
+ 底部停 1 秒，控制住再起\n\n【餐食】2395 kcal · 蛋白 178g\
+ n早餐 7:00  燕麦70 牛奶300 鸡蛋50 蛋白100 蓝莓80\n午餐 12:00
+   米饭（熟）270 鸡胸肉145 西兰花200 橄榄油7\n训练前 16:00
+   全麦面包70 花生酱10\n训练后 19:00  乳清蛋白粉30 香蕉100
+ \n晚餐 20:00  红薯250 牛里脊150 菠菜200 橄榄油10\n加餐 22:00
+   希腊酸奶200 混合坚果15\n\n不练的话，在 App 里切「今天
+ 不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢力量 + 有氧底子（W3）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-10@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261123T232000Z
+DTEND:20261123T234000Z
+SUMMARY:练 上肢推拉 + 短 WOD（W3）
+DESCRIPTION:【训练】第 3 周 · Day 2 · 上肢推拉 + 短 WOD（85 
+ 分钟）\n\nA 主项\n· 站姿推举 5×5 @45kg\n\nB 辅助 / 技能\n·
+  引体 5×3\n· 屈体俯卧撑 4×6\n\nC 代谢 / 有氧\n· 4 轮计时
+ （cap 14，目标 11min）：\n· 200m 跑步机 / 10 前蹲 @40kg / 10 
+ 波比\n\n【注意】前蹲用空杆或 40kg，别用 WOD 试重量\n\n
+ 【餐食】2378 kcal · 蛋白 174g\n早餐 7:00  全麦面包90 鸡蛋10
+ 0 牛油果40 牛奶250\n午餐 12:00  意面（熟）310 牛里脊180 番
+ 茄150 橄榄油5\n训练前 16:00  香蕉150 希腊酸奶150\n训练后 1
+ 9:00  乳清蛋白粉30\n晚餐 20:00  三文鱼120 土豆300 芦笋150 
+ 橄榄油5\n加餐 22:00  苹果150 希腊酸奶150 混合坚果10\n\n不
+ 练的话，在 App 里切「今天不练」，餐单会自动换休息版
+ 。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢推拉 + 短 WOD（W3）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-11@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261125T232000Z
+DTEND:20261125T234000Z
+SUMMARY:练 奥举 + 阈值间歇（W3）
+DESCRIPTION:【训练】第 3 周 · Day 3 · 奥举 + 阈值间歇（90 
+ 分钟）\n\nA 主项\n· 抓举 5×2 @45kg\n· 过顶深蹲 3×5 @40kg\n\
+ nB 辅助 / 技能\n· 挺举复合 5 组：1 高翻 + 2 借力推 @55kg\n
+ · 前蹲 4×6 @65kg\n\nC 代谢 / 有氧\n· 阈值间歇 6×(3min 快 / 
+ 2min 慢)\n\n【注意】间歇保持每组配速一致，这是有氧训
+ 练的关键\n\n【餐食】2372 kcal · 蛋白 172g\n早餐 7:00  燕麦7
+ 0 牛奶250 鸡蛋100 香蕉100\n午餐 12:00  米饭（熟）270 鸡胸
+ 肉185 番茄150 生菜100 橄榄油8\n训练前 16:00  全麦面包60 花
+ 生酱12\n训练后 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  牛
+ 腩160 红薯250 西兰花200 橄榄油5\n加餐 22:00  希腊酸奶200\n\
+ n不练的话，在 App 里切「今天不练」，餐单会自动换休
+ 息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 + 阈值间歇（W3）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-12@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261126T232000Z
+DTEND:20261126T234000Z
+SUMMARY:练 长有氧 + 技能（W3）
+DESCRIPTION:【训练】第 3 周 · Day 4 · 长有氧 + 技能（75 分
+ 钟）\n\nA 主项\n· 45min Zone2\n\nB 辅助 / 技能\n· 技能：双
+ 摇 5×40 / 箱上倒立撑 3×5\n\nC 代谢 / 有氧\n· 核心 3×10 悬
+ 垂举腿（可屈膝）\n\n【注意】这周长有氧加到 45 分钟\n\
+ n【餐食】2434 kcal · 蛋白 177g\n早餐 7:00  燕麦80 牛奶250 鸡
+ 蛋50 蛋白100 香蕉120 牛油果40\n午餐 12:00  米饭（熟）200 
+ 牛里脊150 西兰花200 橄榄油8\n训练前 16:00  全麦面包70 蜂
+ 蜜15\n训练后 19:00  乳清蛋白粉30 香蕉120\n晚餐 20:00  鸡胸
+ 肉155 红薯210 菠菜200 橄榄油8\n加餐 22:00  希腊酸奶200 蓝
+ 莓80 混合坚果10\n\n不练的话，在 App 里切「今天不练」，
+ 餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 长有氧 + 技能（W3）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-13@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261129T232000Z
+DTEND:20261129T234000Z
+SUMMARY:练 下肢 · 技术（W4）
+DESCRIPTION:【训练】第 4 周 · Day 1 · 下肢 · 技术（65 分钟
+ ）\n\nA 主项\n· 背蹲 3×5 @60kg\n\nB 辅助 / 技能\n· 硬拉 3×5
+  @70kg（技术）\n· 单腿硬拉 3×8/腿\n\nC 代谢 / 有氧\n· 20mi
+ n 轻松 Zone2\n\n【注意】重量轻，专注节奏与呼吸\n\n【餐
+ 食】2395 kcal · 蛋白 178g\n早餐 7:00  燕麦70 牛奶300 鸡蛋50 
+ 蛋白100 蓝莓80\n午餐 12:00  米饭（熟）270 鸡胸肉145 西兰
+ 花200 橄榄油7\n训练前 16:00  全麦面包70 花生酱10\n训练后 
+ 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  红薯250 牛里脊150 
+ 菠菜200 橄榄油10\n加餐 22:00  希腊酸奶200 混合坚果15\n\n不
+ 练的话，在 App 里切「今天不练」，餐单会自动换休息版
+ 。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢 · 技术（W4）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-14@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261130T232000Z
+DTEND:20261130T234000Z
+SUMMARY:练 上肢 · 技术（W4）
+DESCRIPTION:【训练】第 4 周 · Day 2 · 上肢 · 技术（65 分钟
+ ）\n\nA 主项\n· 站姿推举 3×5 @32.5kg\n\nB 辅助 / 技能\n· 引
+ 体 3×3\n· 倒立撑技术 10min（墙撑 + 箱上）\n\nC 代谢 / 有
+ 氧\n· 8min AMRAP 轻松：\n· 8 卡单车 / 8 空蹲 / 8 波比\n\n【
+ 注意】不带训练目标，只找感觉\n\n【餐食】2378 kcal · 蛋
+ 白 174g\n早餐 7:00  全麦面包90 鸡蛋100 牛油果40 牛奶250\n午
+ 餐 12:00  意面（熟）310 牛里脊180 番茄150 橄榄油5\n训练前
+  16:00  香蕉150 希腊酸奶150\n训练后 19:00  乳清蛋白粉30\n晚
+ 餐 20:00  三文鱼120 土豆300 芦笋150 橄榄油5\n加餐 22:00  苹
+ 果150 希腊酸奶150 混合坚果10\n\n不练的话，在 App 里切「
+ 今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢 · 技术（W4）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-15@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261202T232000Z
+DTEND:20261202T234000Z
+SUMMARY:练 奥举 · 技术（W4）
+DESCRIPTION:【训练】第 4 周 · Day 3 · 奥举 · 技术（70 分钟
+ ）\n\nA 主项\n· 抓举 4×2 @30kg\n· 过顶深蹲 3×5 @30kg\n\nB 辅
+ 助 / 技能\n· 挺举复合 4 组：1 高翻 + 2 借力推 @40kg\n· 前
+ 蹲 3×6 @50kg\n\nC 代谢 / 有氧\n· 阈值间歇 4×(2min 快 / 2min 
+ 慢)\n\n【注意】把速度做出来，重量放一边\n\n【餐食】23
+ 72 kcal · 蛋白 172g\n早餐 7:00  燕麦70 牛奶250 鸡蛋100 香蕉10
+ 0\n午餐 12:00  米饭（熟）270 鸡胸肉185 番茄150 生菜100 橄
+ 榄油8\n训练前 16:00  全麦面包60 花生酱12\n训练后 19:00  乳
+ 清蛋白粉30 香蕉100\n晚餐 20:00  牛腩160 红薯250 西兰花200 
+ 橄榄油5\n加餐 22:00  希腊酸奶200\n\n不练的话，在 App 里切
+ 「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 · 技术（W4）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-16@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261203T232000Z
+DTEND:20261203T234000Z
+SUMMARY:练 主动恢复（W4）
+DESCRIPTION:【训练】第 4 周 · Day 4 · 主动恢复（60 分钟）\n
+ \nA 主项\n· 40min Zone2：单车或坡度走\n\nB 辅助 / 技能\n· 
+ 全身泡沫轴 + 髋/肩拉伸 15min\n\nC 代谢 / 有氧\n· —\n\n【
+ 注意】睡够 8 小时；复盘前三周，别加练\n\n【餐食】2434
+  kcal · 蛋白 177g\n早餐 7:00  燕麦80 牛奶250 鸡蛋50 蛋白100 
+ 香蕉120 牛油果40\n午餐 12:00  米饭（熟）200 牛里脊150 西
+ 兰花200 橄榄油8\n训练前 16:00  全麦面包70 蜂蜜15\n训练后 
+ 19:00  乳清蛋白粉30 香蕉120\n晚餐 20:00  鸡胸肉155 红薯210 
+ 菠菜200 橄榄油8\n加餐 22:00  希腊酸奶200 蓝莓80 混合坚果1
+ 0\n\n不练的话，在 App 里切「今天不练」，餐单会自动换
+ 休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 主动恢复（W4）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-17@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261206T232000Z
+DTEND:20261206T234000Z
+SUMMARY:练 下肢力量 + 有氧底子（W5）
+DESCRIPTION:【训练】第 5 周 · Day 1 · 下肢力量 + 有氧底子
+ （90 分钟）\n\nA 主项\n· 背蹲 5×3 @82.5kg\n· 硬拉 4×3 @100kg
+ \n\nB 辅助 / 技能\n· 保加利亚分腿蹲 3×8/腿（2×10kg）\n\nC
+  代谢 / 有氧\n· 20min Zone2：心率 130–140\n\n【注意】硬拉
+ 每下重新起，不弹地\n\n【餐食】2395 kcal · 蛋白 178g\n早
+ 餐 7:00  燕麦70 牛奶300 鸡蛋50 蛋白100 蓝莓80\n午餐 12:00  
+ 米饭（熟）270 鸡胸肉145 西兰花200 橄榄油7\n训练前 16:00  
+ 全麦面包70 花生酱10\n训练后 19:00  乳清蛋白粉30 香蕉100\n
+ 晚餐 20:00  红薯250 牛里脊150 菠菜200 橄榄油10\n加餐 22:00  
+ 希腊酸奶200 混合坚果15\n\n不练的话，在 App 里切「今天
+ 不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢力量 + 有氧底子（W5）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-18@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261207T232000Z
+DTEND:20261207T234000Z
+SUMMARY:练 上肢 + 短 WOD（W5）
+DESCRIPTION:【训练】第 5 周 · Day 2 · 上肢 + 短 WOD（90 分钟
+ ）\n\nA 主项\n· 站姿推举 4×4 @47.5kg\n\nB 辅助 / 技能\n· 引
+ 体 5×4\n· 蝶式引体 3×5（弹力带辅助）\n\nC 代谢 / 有氧\n
+ · 15min AMRAP（目标 4 轮）：\n· 20 双摇 / 10 引体 / 10 哑铃
+ 推举 2×15kg / 200m\n\n【注意】蝶式先练「髋送、胸贴杠」
+ ，不追次数\n\n【餐食】2378 kcal · 蛋白 174g\n早餐 7:00  全
+ 麦面包90 鸡蛋100 牛油果40 牛奶250\n午餐 12:00  意面（熟）
+ 310 牛里脊180 番茄150 橄榄油5\n训练前 16:00  香蕉150 希腊
+ 酸奶150\n训练后 19:00  乳清蛋白粉30\n晚餐 20:00  三文鱼120 
+ 土豆300 芦笋150 橄榄油5\n加餐 22:00  苹果150 希腊酸奶150 
+ 混合坚果10\n\n不练的话，在 App 里切「今天不练」，餐单
+ 会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢 + 短 WOD（W5）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-19@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261209T232000Z
+DTEND:20261209T234000Z
+SUMMARY:练 奥举 + 阈值间歇（W5）
+DESCRIPTION:【训练】第 5 周 · Day 3 · 奥举 + 阈值间歇（90 
+ 分钟）\n\nA 主项\n· 抓举 6×2 @47.5kg\n· 过顶深蹲 3×3 @42.5k
+ g\n\nB 辅助 / 技能\n· 挺举复合 5 组：1 高翻 + 2 借力推 @57
+ .5kg\n· 前蹲 4×4 @70kg\n\nC 代谢 / 有氧\n· 阈值间歇 5×(4min 
+ 快 / 2min 慢)\n\n【注意】4 分钟一组是本阶段的核心刺激\n
+ \n【餐食】2372 kcal · 蛋白 172g\n早餐 7:00  燕麦70 牛奶250 
+ 鸡蛋100 香蕉100\n午餐 12:00  米饭（熟）270 鸡胸肉185 番茄1
+ 50 生菜100 橄榄油8\n训练前 16:00  全麦面包60 花生酱12\n训
+ 练后 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  牛腩160 红薯2
+ 50 西兰花200 橄榄油5\n加餐 22:00  希腊酸奶200\n\n不练的话
+ ，在 App 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 + 阈值间歇（W5）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-20@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261210T232000Z
+DTEND:20261210T234000Z
+SUMMARY:练 长有氧 + 技能（W5）
+DESCRIPTION:【训练】第 5 周 · Day 4 · 长有氧 + 技能（75 分
+ 钟）\n\nA 主项\n· 45min Zone2\n\nB 辅助 / 技能\n· 技能：箱
+ 上倒立撑 4×5 / 双摇 5×50\n\nC 代谢 / 有氧\n· 核心 3×(40s 
+ 平板 + 40s 侧板)\n\n【注意】有氧日别空腹，练前吃点碳
+ 水\n\n【餐食】2434 kcal · 蛋白 177g\n早餐 7:00  燕麦80 牛奶2
+ 50 鸡蛋50 蛋白100 香蕉120 牛油果40\n午餐 12:00  米饭（熟）
+ 200 牛里脊150 西兰花200 橄榄油8\n训练前 16:00  全麦面包70 
+ 蜂蜜15\n训练后 19:00  乳清蛋白粉30 香蕉120\n晚餐 20:00  鸡
+ 胸肉155 红薯210 菠菜200 橄榄油8\n加餐 22:00  希腊酸奶200 
+ 蓝莓80 混合坚果10\n\n不练的话，在 App 里切「今天不练」
+ ，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 长有氧 + 技能（W5）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-21@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261213T232000Z
+DTEND:20261213T234000Z
+SUMMARY:练 下肢力量 + 有氧底子（W6）
+DESCRIPTION:【训练】第 6 周 · Day 1 · 下肢力量 + 有氧底子
+ （90 分钟）\n\nA 主项\n· 背蹲 5×3 @85kg\n· 硬拉 4×3 @105kg\n
+ \nB 辅助 / 技能\n· 前蹲 4×4 @72.5kg\n\nC 代谢 / 有氧\n· 20min
+  Zone2\n\n【注意】前蹲是挺举的底子，别跳过\n\n【餐食】
+ 2395 kcal · 蛋白 178g\n早餐 7:00  燕麦70 牛奶300 鸡蛋50 蛋白1
+ 00 蓝莓80\n午餐 12:00  米饭（熟）270 鸡胸肉145 西兰花200 
+ 橄榄油7\n训练前 16:00  全麦面包70 花生酱10\n训练后 19:00  
+ 乳清蛋白粉30 香蕉100\n晚餐 20:00  红薯250 牛里脊150 菠菜20
+ 0 橄榄油10\n加餐 22:00  希腊酸奶200 混合坚果15\n\n不练的
+ 话，在 App 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢力量 + 有氧底子（W6）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-22@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261214T232000Z
+DTEND:20261214T234000Z
+SUMMARY:练 推举 + Fran 测试（W6）
+DESCRIPTION:【训练】第 6 周 · Day 2 · 推举 + Fran 测试（90 分
+ 钟）\n\nA 主项\n· 站姿推举 4×4 @50kg\n\nB 辅助 / 技能\n· 
+ 引体 5×4\n\nC 代谢 / 有氧\n· Fran（降阶，cap 12，目标 9–1
+ 0min）：\n· 21-15-9 哑铃推举 2×15kg + 引体（可弹力带）\n\n
+ 【注意】记下成绩与降阶方式，第 12 周同条件复测\n\n【
+ 餐食】2378 kcal · 蛋白 174g\n早餐 7:00  全麦面包90 鸡蛋100 
+ 牛油果40 牛奶250\n午餐 12:00  意面（熟）310 牛里脊180 番
+ 茄150 橄榄油5\n训练前 16:00  香蕉150 希腊酸奶150\n训练后 1
+ 9:00  乳清蛋白粉30\n晚餐 20:00  三文鱼120 土豆300 芦笋150 
+ 橄榄油5\n加餐 22:00  苹果150 希腊酸奶150 混合坚果10\n\n不
+ 练的话，在 App 里切「今天不练」，餐单会自动换休息版
+ 。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 推举 + Fran 测试（W6）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-23@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261216T232000Z
+DTEND:20261216T234000Z
+SUMMARY:练 奥举 + 阈值间歇（W6）
+DESCRIPTION:【训练】第 6 周 · Day 3 · 奥举 + 阈值间歇（90 
+ 分钟）\n\nA 主项\n· 抓举 5×2 @50kg\n· 过顶深蹲 3×3 @45kg\n\
+ nB 辅助 / 技能\n· 挺举复合 5 组：1 高翻 + 2 借力推 @60kg\n
+ · 前蹲 4×4 @72.5kg\n\nC 代谢 / 有氧\n· 阈值间歇 5×(4min 快 
+ / 2min 慢)\n\n【注意】60kg 挺举是你原来的水平，注意接杠
+ 稳定\n\n【餐食】2372 kcal · 蛋白 172g\n早餐 7:00  燕麦70 牛
+ 奶250 鸡蛋100 香蕉100\n午餐 12:00  米饭（熟）270 鸡胸肉185 
+ 番茄150 生菜100 橄榄油8\n训练前 16:00  全麦面包60 花生酱1
+ 2\n训练后 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  牛腩160 
+ 红薯250 西兰花200 橄榄油5\n加餐 22:00  希腊酸奶200\n\n不练
+ 的话，在 App 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 + 阈值间歇（W6）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-24@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261217T232000Z
+DTEND:20261217T234000Z
+SUMMARY:练 长有氧 + 技能（W6）
+DESCRIPTION:【训练】第 6 周 · Day 4 · 长有氧 + 技能（80 分
+ 钟）\n\nA 主项\n· 50min Zone2\n\nB 辅助 / 技能\n· 技能：双
+ 摇 5×50 / 悬垂摆动 3×5\n\nC 代谢 / 有氧\n· 核心 3×(45s 平
+ 板 + 45s 侧板)\n\n【注意】有氧时长加到 50 分钟\n\n【餐食
+ 】2434 kcal · 蛋白 177g\n早餐 7:00  燕麦80 牛奶250 鸡蛋50 蛋
+ 白100 香蕉120 牛油果40\n午餐 12:00  米饭（熟）200 牛里脊15
+ 0 西兰花200 橄榄油8\n训练前 16:00  全麦面包70 蜂蜜15\n训
+ 练后 19:00  乳清蛋白粉30 香蕉120\n晚餐 20:00  鸡胸肉155 红
+ 薯210 菠菜200 橄榄油8\n加餐 22:00  希腊酸奶200 蓝莓80 混合
+ 坚果10\n\n不练的话，在 App 里切「今天不练」，餐单会自
+ 动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 长有氧 + 技能（W6）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-25@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261220T232000Z
+DTEND:20261220T234000Z
+SUMMARY:练 下肢力量 + 有氧底子（W7）
+DESCRIPTION:【训练】第 7 周 · Day 1 · 下肢力量 + 有氧底子
+ （90 分钟）\n\nA 主项\n· 背蹲 5×3 @87.5kg\n· 硬拉 4×3 @107.5
+ kg\n\nB 辅助 / 技能\n· 前蹲 4×4 @75kg\n\nC 代谢 / 有氧\n· 20m
+ in Zone2\n\n【注意】这周深蹲会很沉，RPE 8 就到顶\n\n【餐
+ 食】2395 kcal · 蛋白 178g\n早餐 7:00  燕麦70 牛奶300 鸡蛋50 
+ 蛋白100 蓝莓80\n午餐 12:00  米饭（熟）270 鸡胸肉145 西兰
+ 花200 橄榄油7\n训练前 16:00  全麦面包70 花生酱10\n训练后 
+ 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  红薯250 牛里脊150 
+ 菠菜200 橄榄油10\n加餐 22:00  希腊酸奶200 混合坚果15\n\n不
+ 练的话，在 App 里切「今天不练」，餐单会自动换休息版
+ 。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢力量 + 有氧底子（W7）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-26@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261221T232000Z
+DTEND:20261221T234000Z
+SUMMARY:练 上肢 + 短 WOD（W7）
+DESCRIPTION:【训练】第 7 周 · Day 2 · 上肢 + 短 WOD（90 分钟
+ ）\n\nA 主项\n· 站姿推举 4×4 @52.5kg\n\nB 辅助 / 技能\n· 引
+ 体 5×5\n· 蝶式引体 3×5\n\nC 代谢 / 有氧\n· 4 轮计时（cap 
+ 16，目标 13min）：\n· 400m 跑步机 / 12 壶铃摆 24kg / 10 波比
+ \n\n【注意】400m 用「能回来」的配速跑，别冲第一轮\n\n
+ 【餐食】2378 kcal · 蛋白 174g\n早餐 7:00  全麦面包90 鸡蛋10
+ 0 牛油果40 牛奶250\n午餐 12:00  意面（熟）310 牛里脊180 番
+ 茄150 橄榄油5\n训练前 16:00  香蕉150 希腊酸奶150\n训练后 1
+ 9:00  乳清蛋白粉30\n晚餐 20:00  三文鱼120 土豆300 芦笋150 
+ 橄榄油5\n加餐 22:00  苹果150 希腊酸奶150 混合坚果10\n\n不
+ 练的话，在 App 里切「今天不练」，餐单会自动换休息版
+ 。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢 + 短 WOD（W7）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-27@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261223T232000Z
+DTEND:20261223T234000Z
+SUMMARY:练 奥举 + 阈值间歇（W7）
+DESCRIPTION:【训练】第 7 周 · Day 3 · 奥举 + 阈值间歇（95 
+ 分钟）\n\nA 主项\n· 抓举 6×1 @52.5kg\n· 过顶深蹲 3×3 @47.5k
+ g\n\nB 辅助 / 技能\n· 挺举 5×1 @62.5kg\n· 前蹲 4×4 @75kg\n\nC 
+ 代谢 / 有氧\n· 阈值间歇 4×(6min 快 / 2min 慢)\n\n【注意】
+ 单次抓举，每次重设站位\n\n【餐食】2372 kcal · 蛋白 172g\
+ n早餐 7:00  燕麦70 牛奶250 鸡蛋100 香蕉100\n午餐 12:00  米饭
+ （熟）270 鸡胸肉185 番茄150 生菜100 橄榄油8\n训练前 16:00 
+  全麦面包60 花生酱12\n训练后 19:00  乳清蛋白粉30 香蕉100\
+ n晚餐 20:00  牛腩160 红薯250 西兰花200 橄榄油5\n加餐 22:00  
+ 希腊酸奶200\n\n不练的话，在 App 里切「今天不练」，餐
+ 单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 + 阈值间歇（W7）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-28@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261224T232000Z
+DTEND:20261224T234000Z
+SUMMARY:练 长有氧 + 技能（W7）
+DESCRIPTION:【训练】第 7 周 · Day 4 · 长有氧 + 技能（80 分
+ 钟）\n\nA 主项\n· 50min Zone2\n\nB 辅助 / 技能\n· 技能：箱
+ 上倒立撑 4×6 / 双摇 5×60\n\nC 代谢 / 有氧\n· 核心 3×12 悬
+ 垂举腿\n\n【注意】蝶式若肩前侧不适，退回严格引体\n\n
+ 【餐食】2434 kcal · 蛋白 177g\n早餐 7:00  燕麦80 牛奶250 鸡
+ 蛋50 蛋白100 香蕉120 牛油果40\n午餐 12:00  米饭（熟）200 
+ 牛里脊150 西兰花200 橄榄油8\n训练前 16:00  全麦面包70 蜂
+ 蜜15\n训练后 19:00  乳清蛋白粉30 香蕉120\n晚餐 20:00  鸡胸
+ 肉155 红薯210 菠菜200 橄榄油8\n加餐 22:00  希腊酸奶200 蓝
+ 莓80 混合坚果10\n\n不练的话，在 App 里切「今天不练」，
+ 餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 长有氧 + 技能（W7）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-29@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261227T232000Z
+DTEND:20261227T234000Z
+SUMMARY:练 下肢 · 技术（W8）
+DESCRIPTION:【训练】第 8 周 · Day 1 · 下肢 · 技术（65 分钟
+ ）\n\nA 主项\n· 背蹲 3×5 @65kg\n· 硬拉 3×3 @85kg\n\nB 辅助 / 
+ 技能\n· 前蹲 3×4 @55kg\n· 单腿硬拉 3×8/腿\n\nC 代谢 / 有
+ 氧\n· 20min 轻松 Zone2\n\n【注意】动作放慢，感受底部位
+ 置\n\n【餐食】2395 kcal · 蛋白 178g\n早餐 7:00  燕麦70 牛奶3
+ 00 鸡蛋50 蛋白100 蓝莓80\n午餐 12:00  米饭（熟）270 鸡胸肉
+ 145 西兰花200 橄榄油7\n训练前 16:00  全麦面包70 花生酱10\n
+ 训练后 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  红薯250 牛
+ 里脊150 菠菜200 橄榄油10\n加餐 22:00  希腊酸奶200 混合坚
+ 果15\n\n不练的话，在 App 里切「今天不练」，餐单会自动
+ 换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢 · 技术（W8）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-30@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261228T232000Z
+DTEND:20261228T234000Z
+SUMMARY:练 上肢 · 技术（W8）
+DESCRIPTION:【训练】第 8 周 · Day 2 · 上肢 · 技术（65 分钟
+ ）\n\nA 主项\n· 站姿推举 3×5 @37.5kg\n\nB 辅助 / 技能\n· 引
+ 体 3×4\n· 箱上倒立撑 3×4\n\nC 代谢 / 有氧\n· 10min AMRAP 轻
+ 松\n\n【注意】倒立撑练「慢下、快上」\n\n【餐食】2378 k
+ cal · 蛋白 174g\n早餐 7:00  全麦面包90 鸡蛋100 牛油果40 牛
+ 奶250\n午餐 12:00  意面（熟）310 牛里脊180 番茄150 橄榄油5
+ \n训练前 16:00  香蕉150 希腊酸奶150\n训练后 19:00  乳清蛋
+ 白粉30\n晚餐 20:00  三文鱼120 土豆300 芦笋150 橄榄油5\n加
+ 餐 22:00  苹果150 希腊酸奶150 混合坚果10\n\n不练的话，在 
+ App 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢 · 技术（W8）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-31@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261230T232000Z
+DTEND:20261230T234000Z
+SUMMARY:练 奥举 · 技术（W8）
+DESCRIPTION:【训练】第 8 周 · Day 3 · 奥举 · 技术（75 分钟
+ ）\n\nA 主项\n· 抓举 4×2 @37.5kg\n· 过顶深蹲 3×3 @35kg\n\nB 
+ 辅助 / 技能\n· 挺举复合 4 组：1 高翻 + 2 借力推 @45kg\n· 
+ 前蹲 3×4 @55kg\n\nC 代谢 / 有氧\n· 阈值间歇 4×(3min 快 / 2mi
+ n 慢)\n\n【注意】这周不追重量，只找速度\n\n【餐食】237
+ 2 kcal · 蛋白 172g\n早餐 7:00  燕麦70 牛奶250 鸡蛋100 香蕉100
+ \n午餐 12:00  米饭（熟）270 鸡胸肉185 番茄150 生菜100 橄榄
+ 油8\n训练前 16:00  全麦面包60 花生酱12\n训练后 19:00  乳清
+ 蛋白粉30 香蕉100\n晚餐 20:00  牛腩160 红薯250 西兰花200 橄
+ 榄油5\n加餐 22:00  希腊酸奶200\n\n不练的话，在 App 里切「
+ 今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 · 技术（W8）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-32@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261231T232000Z
+DTEND:20261231T234000Z
+SUMMARY:练 主动恢复（W8）
+DESCRIPTION:【训练】第 8 周 · Day 4 · 主动恢复（60 分钟）\n
+ \nA 主项\n· 40min Zone2\n\nB 辅助 / 技能\n· 泡沫轴 + 拉伸 15m
+ in\n\nC 代谢 / 有氧\n· —\n\n【注意】复盘前 7 周：WOD 完
+ 成了几次，配速有没有变好\n\n【餐食】2434 kcal · 蛋白 17
+ 7g\n早餐 7:00  燕麦80 牛奶250 鸡蛋50 蛋白100 香蕉120 牛油果
+ 40\n午餐 12:00  米饭（熟）200 牛里脊150 西兰花200 橄榄油8\
+ n训练前 16:00  全麦面包70 蜂蜜15\n训练后 19:00  乳清蛋白
+ 粉30 香蕉120\n晚餐 20:00  鸡胸肉155 红薯210 菠菜200 橄榄油8
+ \n加餐 22:00  希腊酸奶200 蓝莓80 混合坚果10\n\n不练的话，
+ 在 App 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 主动恢复（W8）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-33@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270103T232000Z
+DTEND:20270103T234000Z
+SUMMARY:练 下肢力量 + 有氧底子（W9）
+DESCRIPTION:【训练】第 9 周 · Day 1 · 下肢力量 + 有氧底子
+ （90 分钟）\n\nA 主项\n· 背蹲 3×3 @90kg\n· 硬拉 3×2 @110kg\n
+ \nB 辅助 / 技能\n· 前蹲 3×3 @77.5kg\n\nC 代谢 / 有氧\n· 15min
+  Zone2\n\n【注意】每组之间完全恢复（2.5–3min）\n\n【餐
+ 食】2395 kcal · 蛋白 178g\n早餐 7:00  燕麦70 牛奶300 鸡蛋50 
+ 蛋白100 蓝莓80\n午餐 12:00  米饭（熟）270 鸡胸肉145 西兰
+ 花200 橄榄油7\n训练前 16:00  全麦面包70 花生酱10\n训练后 
+ 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  红薯250 牛里脊150 
+ 菠菜200 橄榄油10\n加餐 22:00  希腊酸奶200 混合坚果15\n\n不
+ 练的话，在 App 里切「今天不练」，餐单会自动换休息版
+ 。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢力量 + 有氧底子（W9）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-34@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270104T232000Z
+DTEND:20270104T234000Z
+SUMMARY:练 上肢 + 长一点的 WOD（W9）
+DESCRIPTION:【训练】第 9 周 · Day 2 · 上肢 + 长一点的 WOD（9
+ 5 分钟）\n\nA 主项\n· 站姿推举 3×3 @55kg\n\nB 辅助 / 技能\n
+ · 引体 5×5\n· 墙面下放 5×2（倒立撑离心）\n\nC 代谢 / 
+ 有氧\n· 18min AMRAP（目标 5 轮）：\n· 30 双摇 / 10 引体 / 10
+  哑铃推举 2×17.5kg / 200m\n\n【注意】到第 3 轮还能保持配
+ 速，才叫有氧底子\n\n【餐食】2378 kcal · 蛋白 174g\n早餐 7
+ :00  全麦面包90 鸡蛋100 牛油果40 牛奶250\n午餐 12:00  意面
+ （熟）310 牛里脊180 番茄150 橄榄油5\n训练前 16:00  香蕉150
+  希腊酸奶150\n训练后 19:00  乳清蛋白粉30\n晚餐 20:00  三文
+ 鱼120 土豆300 芦笋150 橄榄油5\n加餐 22:00  苹果150 希腊酸
+ 奶150 混合坚果10\n\n不练的话，在 App 里切「今天不练」
+ ，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢 + 长一点的 WOD（W9）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-35@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270106T232000Z
+DTEND:20270106T234000Z
+SUMMARY:练 奥举 + 阈值间歇（W9）
+DESCRIPTION:【训练】第 9 周 · Day 3 · 奥举 + 阈值间歇（95 
+ 分钟）\n\nA 主项\n· 抓举 6×1 @55kg\n· 过顶深蹲 3×2 @50kg\n\
+ nB 辅助 / 技能\n· 挺举 5×1 @65kg\n· 前蹲 3×3 @77.5kg\n\nC 代
+ 谢 / 有氧\n· 阈值间歇 3×(8min 快 / 2min 慢)\n\n【注意】8 
+ 分钟一组：这是「WOD 能不能完成」的直接指标\n\n【餐食
+ 】2372 kcal · 蛋白 172g\n早餐 7:00  燕麦70 牛奶250 鸡蛋100 香
+ 蕉100\n午餐 12:00  米饭（熟）270 鸡胸肉185 番茄150 生菜100 
+ 橄榄油8\n训练前 16:00  全麦面包60 花生酱12\n训练后 19:00  
+ 乳清蛋白粉30 香蕉100\n晚餐 20:00  牛腩160 红薯250 西兰花20
+ 0 橄榄油5\n加餐 22:00  希腊酸奶200\n\n不练的话，在 App 里
+ 切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 + 阈值间歇（W9）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-36@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270107T232000Z
+DTEND:20270107T234000Z
+SUMMARY:练 长有氧 + 技能（W9）
+DESCRIPTION:【训练】第 9 周 · Day 4 · 长有氧 + 技能（80 分
+ 钟）\n\nA 主项\n· 45min Zone2\n\nB 辅助 / 技能\n· 技能：双
+ 力臂转换 6×2 / 双摇 5×70\n\nC 代谢 / 有氧\n· 核心 3×12 悬
+ 垂举腿\n\n【注意】转换练习用手臂「钻」过去，不是拉
+ 上去\n\n【餐食】2434 kcal · 蛋白 177g\n早餐 7:00  燕麦80 牛
+ 奶250 鸡蛋50 蛋白100 香蕉120 牛油果40\n午餐 12:00  米饭（
+ 熟）200 牛里脊150 西兰花200 橄榄油8\n训练前 16:00  全麦面
+ 包70 蜂蜜15\n训练后 19:00  乳清蛋白粉30 香蕉120\n晚餐 20:00
+   鸡胸肉155 红薯210 菠菜200 橄榄油8\n加餐 22:00  希腊酸奶2
+ 00 蓝莓80 混合坚果10\n\n不练的话，在 App 里切「今天不练
+ 」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 长有氧 + 技能（W9）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-37@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270110T232000Z
+DTEND:20270110T234000Z
+SUMMARY:练 下肢力量 + 有氧底子（W10）
+DESCRIPTION:【训练】第 10 周 · Day 1 · 下肢力量 + 有氧底子
+ （90 分钟）\n\nA 主项\n· 背蹲 3×2 @92.5kg\n· 硬拉 2×2 @112.5
+ kg\n\nB 辅助 / 技能\n· 前蹲 3×3 @80kg\n\nC 代谢 / 有氧\n· 15m
+ in Zone2\n\n【注意】硬拉 112.5kg 只做 2×2，动作一变形就停
+ \n\n【餐食】2395 kcal · 蛋白 178g\n早餐 7:00  燕麦70 牛奶300 
+ 鸡蛋50 蛋白100 蓝莓80\n午餐 12:00  米饭（熟）270 鸡胸肉145
+  西兰花200 橄榄油7\n训练前 16:00  全麦面包70 花生酱10\n训
+ 练后 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  红薯250 牛里
+ 脊150 菠菜200 橄榄油10\n加餐 22:00  希腊酸奶200 混合坚果15
+ \n\n不练的话，在 App 里切「今天不练」，餐单会自动换
+ 休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢力量 + 有氧底子（W10）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-38@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270111T232000Z
+DTEND:20270111T234000Z
+SUMMARY:练 上肢 + 长 WOD（W10）
+DESCRIPTION:【训练】第 10 周 · Day 2 · 上肢 + 长 WOD（95 分钟
+ ）\n\nA 主项\n· 站姿推举 3×3 @57.5kg\n\nB 辅助 / 技能\n· 引
+ 体 4×6\n· 双力臂转换 6×2\n\nC 代谢 / 有氧\n· 20min AMRAP（
+ 目标 5 轮）：\n· 400m 跑步机 / 15 壶铃摆 24kg / 10 波比 / 5 
+ 引体\n\n【注意】这是 12 周最长的 WOD，配速比成绩重要\n
+ \n【餐食】2378 kcal · 蛋白 174g\n早餐 7:00  全麦面包90 鸡蛋
+ 100 牛油果40 牛奶250\n午餐 12:00  意面（熟）310 牛里脊180 
+ 番茄150 橄榄油5\n训练前 16:00  香蕉150 希腊酸奶150\n训练
+ 后 19:00  乳清蛋白粉30\n晚餐 20:00  三文鱼120 土豆300 芦笋1
+ 50 橄榄油5\n加餐 22:00  苹果150 希腊酸奶150 混合坚果10\n\n
+ 不练的话，在 App 里切「今天不练」，餐单会自动换休息
+ 版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢 + 长 WOD（W10）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-39@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270113T232000Z
+DTEND:20270113T234000Z
+SUMMARY:练 奥举 + 阈值间歇（W10）
+DESCRIPTION:【训练】第 10 周 · Day 3 · 奥举 + 阈值间歇（95 
+ 分钟）\n\nA 主项\n· 抓举 5×1 @57.5kg\n· 过顶深蹲 3×2 @52.5k
+ g\n\nB 辅助 / 技能\n· 挺举 4×1 @67.5kg\n· 前蹲 3×3 @80kg\n\nC 
+ 代谢 / 有氧\n· 阈值间歇 2×(12min 快 / 3min 慢)\n\n【注意】
+ 12 分钟一组，接近 WOD 的真实强度\n\n【餐食】2372 kcal · 
+ 蛋白 172g\n早餐 7:00  燕麦70 牛奶250 鸡蛋100 香蕉100\n午餐 1
+ 2:00  米饭（熟）270 鸡胸肉185 番茄150 生菜100 橄榄油8\n训
+ 练前 16:00  全麦面包60 花生酱12\n训练后 19:00  乳清蛋白粉
+ 30 香蕉100\n晚餐 20:00  牛腩160 红薯250 西兰花200 橄榄油5\n
+ 加餐 22:00  希腊酸奶200\n\n不练的话，在 App 里切「今天不
+ 练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 + 阈值间歇（W10）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-40@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270114T232000Z
+DTEND:20270114T234000Z
+SUMMARY:练 长有氧 + 技能（W10）
+DESCRIPTION:【训练】第 10 周 · Day 4 · 长有氧 + 技能（80 分
+ 钟）\n\nA 主项\n· 50min Zone2\n\nB 辅助 / 技能\n· 技能：双
+ 摇 5×80 / 墙倒立撑尝试\n\nC 代谢 / 有氧\n· 核心 3×45s 平
+ 板\n\n【注意】之后只减不加\n\n【餐食】2434 kcal · 蛋白 1
+ 77g\n早餐 7:00  燕麦80 牛奶250 鸡蛋50 蛋白100 香蕉120 牛油
+ 果40\n午餐 12:00  米饭（熟）200 牛里脊150 西兰花200 橄榄
+ 油8\n训练前 16:00  全麦面包70 蜂蜜15\n训练后 19:00  乳清蛋
+ 白粉30 香蕉120\n晚餐 20:00  鸡胸肉155 红薯210 菠菜200 橄榄
+ 油8\n加餐 22:00  希腊酸奶200 蓝莓80 混合坚果10\n\n不练的
+ 话，在 App 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 长有氧 + 技能（W10）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-41@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270117T232000Z
+DTEND:20270117T234000Z
+SUMMARY:练 下肢 · 激活（W11）
+DESCRIPTION:【训练】第 11 周 · Day 1 · 下肢 · 激活（60 分钟
+ ）\n\nA 主项\n· 背蹲 2×2 @95kg\n· 硬拉 1×2 @115kg\n\nB 辅助 /
+  技能\n· 前蹲 2×3 @82.5kg\n\nC 代谢 / 有氧\n· 20min 轻松 Zone
+ 2\n\n【注意】重量不减，组数减半\n\n【餐食】2395 kcal · 
+ 蛋白 178g\n早餐 7:00  燕麦70 牛奶300 鸡蛋50 蛋白100 蓝莓80\n
+ 午餐 12:00  米饭（熟）270 鸡胸肉145 西兰花200 橄榄油7\n训
+ 练前 16:00  全麦面包70 花生酱10\n训练后 19:00  乳清蛋白粉
+ 30 香蕉100\n晚餐 20:00  红薯250 牛里脊150 菠菜200 橄榄油10\n
+ 加餐 22:00  希腊酸奶200 混合坚果15\n\n不练的话，在 App 里
+ 切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 下肢 · 激活（W11）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-42@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270118T232000Z
+DTEND:20270118T234000Z
+SUMMARY:练 上肢 · 激活（W11）
+DESCRIPTION:【训练】第 11 周 · Day 2 · 上肢 · 激活（65 分钟
+ ）\n\nA 主项\n· 站姿推举 2×2 @60kg\n\nB 辅助 / 技能\n· 引
+ 体 3×4\n· 箱上倒立撑 3×3\n\nC 代谢 / 有氧\n· 3 轮轻松（c
+ ap 12，目标 9min）：\n· 300m 跑步机 / 10 哑铃高翻 2×15kg / 1
+ 0 波比\n\n【注意】保持神经兴奋度，不制造疲劳\n\n【餐
+ 食】2378 kcal · 蛋白 174g\n早餐 7:00  全麦面包90 鸡蛋100 牛
+ 油果40 牛奶250\n午餐 12:00  意面（熟）310 牛里脊180 番茄15
+ 0 橄榄油5\n训练前 16:00  香蕉150 希腊酸奶150\n训练后 19:00 
+  乳清蛋白粉30\n晚餐 20:00  三文鱼120 土豆300 芦笋150 橄榄
+ 油5\n加餐 22:00  苹果150 希腊酸奶150 混合坚果10\n\n不练的
+ 话，在 App 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢 · 激活（W11）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-43@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270120T232000Z
+DTEND:20270120T234000Z
+SUMMARY:练 奥举 · 激活（W11）
+DESCRIPTION:【训练】第 11 周 · Day 3 · 奥举 · 激活（75 分钟
+ ）\n\nA 主项\n· 抓举 4×1 @60kg\n· 过顶深蹲 3×2 @55kg\n\nB 辅
+ 助 / 技能\n· 挺举 3×1 @70kg\n· 前蹲 2×3 @82.5kg\n\nC 代谢 / 
+ 有氧\n· 阈值间歇 3×(4min 快 / 2min 慢)\n\n【注意】每组都
+ 当比赛的一次试举\n\n【餐食】2372 kcal · 蛋白 172g\n早餐 7
+ :00  燕麦70 牛奶250 鸡蛋100 香蕉100\n午餐 12:00  米饭（熟）
+ 270 鸡胸肉185 番茄150 生菜100 橄榄油8\n训练前 16:00  全麦
+ 面包60 花生酱12\n训练后 19:00  乳清蛋白粉30 香蕉100\n晚餐
+  20:00  牛腩160 红薯250 西兰花200 橄榄油5\n加餐 22:00  希腊
+ 酸奶200\n\n不练的话，在 App 里切「今天不练」，餐单会
+ 自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举 · 激活（W11）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-44@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270121T232000Z
+DTEND:20270121T234000Z
+SUMMARY:练 测试准备（W11）
+DESCRIPTION:【训练】第 11 周 · Day 4 · 测试准备（55 分钟）\
+ n\nA 主项\n· 30min Zone2\n\nB 辅助 / 技能\n· 测最大连续双摇
+  / 拉伸 10min\n\nC 代谢 / 有氧\n· —\n\n【注意】测试周前
+ 别熬夜、别空腹训练\n\n【餐食】2434 kcal · 蛋白 177g\n早
+ 餐 7:00  燕麦80 牛奶250 鸡蛋50 蛋白100 香蕉120 牛油果40\n午
+ 餐 12:00  米饭（熟）200 牛里脊150 西兰花200 橄榄油8\n训练
+ 前 16:00  全麦面包70 蜂蜜15\n训练后 19:00  乳清蛋白粉30 香
+ 蕉120\n晚餐 20:00  鸡胸肉155 红薯210 菠菜200 橄榄油8\n加餐 
+ 22:00  希腊酸奶200 蓝莓80 混合坚果10\n\n不练的话，在 App 
+ 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 测试准备（W11）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-45@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270124T232000Z
+DTEND:20270124T234000Z
+SUMMARY:练 力量复测（W12）
+DESCRIPTION:【训练】第 12 周 · Day 1 · 力量复测（80 分钟）\
+ n\nA 主项\n· 背蹲 1RM：5-3-2-1 递进 → 试 100 / 105 / 110kg\n· 
+ （状态好再测硬拉 1RM，否则测 3RM）\n\nB 辅助 / 技能\n· 
+ 引体/双摇只做轻量技术\n\nC 代谢 / 有氧\n· 10min Zone2\n\n
+ 【注意】只加 2.5–5kg；动作变形即止，记录成功重量\n\n
+ 【餐食】2395 kcal · 蛋白 178g\n早餐 7:00  燕麦70 牛奶300 鸡
+ 蛋50 蛋白100 蓝莓80\n午餐 12:00  米饭（熟）270 鸡胸肉145 
+ 西兰花200 橄榄油7\n训练前 16:00  全麦面包70 花生酱10\n训
+ 练后 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  红薯250 牛里
+ 脊150 菠菜200 橄榄油10\n加餐 22:00  希腊酸奶200 混合坚果15
+ \n\n不练的话，在 App 里切「今天不练」，餐单会自动换
+ 休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 力量复测（W12）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-46@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270125T232000Z
+DTEND:20270125T234000Z
+SUMMARY:练 上肢与体操复测（W12）
+DESCRIPTION:【训练】第 12 周 · Day 2 · 上肢与体操复测（70 
+ 分钟）\n\nA 主项\n· 站姿推举 3RM：试 60 / 62.5 / 65kg\n\nB 辅
+ 助 / 技能\n· 最大严格引体 / 最大箱上倒立撑 / 最长连续
+ 双摇\n\nC 代谢 / 有氧\n· 10min 轻松单车\n\n【注意】同一
+ 天别既测引体又测双力臂\n\n【餐食】2378 kcal · 蛋白 174g\
+ n早餐 7:00  全麦面包90 鸡蛋100 牛油果40 牛奶250\n午餐 12:00
+   意面（熟）310 牛里脊180 番茄150 橄榄油5\n训练前 16:00  
+ 香蕉150 希腊酸奶150\n训练后 19:00  乳清蛋白粉30\n晚餐 20:0
+ 0  三文鱼120 土豆300 芦笋150 橄榄油5\n加餐 22:00  苹果150 
+ 希腊酸奶150 混合坚果10\n\n不练的话，在 App 里切「今天
+ 不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 上肢与体操复测（W12）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-47@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270127T232000Z
+DTEND:20270127T234000Z
+SUMMARY:练 奥举复测（W12）
+DESCRIPTION:【训练】第 12 周 · Day 3 · 奥举复测（80 分钟）\
+ n\nA 主项\n· 抓举 1RM：试 55 / 58 / 60 / 62.5kg\n\nB 辅助 / 技
+ 能\n· 挺举 1RM：试 65 / 68 / 70 / 72.5kg\n\nC 代谢 / 有氧\n· 
+ 轻松拉伸\n\n【注意】抓举失败 2 次就收；挺举同理\n\n【
+ 餐食】2372 kcal · 蛋白 172g\n早餐 7:00  燕麦70 牛奶250 鸡蛋1
+ 00 香蕉100\n午餐 12:00  米饭（熟）270 鸡胸肉185 番茄150 生
+ 菜100 橄榄油8\n训练前 16:00  全麦面包60 花生酱12\n训练后 
+ 19:00  乳清蛋白粉30 香蕉100\n晚餐 20:00  牛腩160 红薯250 西
+ 兰花200 橄榄油5\n加餐 22:00  希腊酸奶200\n\n不练的话，在 
+ App 里切「今天不练」，餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 奥举复测（W12）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-48@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20270128T232000Z
+DTEND:20270128T234000Z
+SUMMARY:练 基准 WOD 复测 + 体测（W12）
+DESCRIPTION:【训练】第 12 周 · Day 4 · 基准 WOD 复测 + 体测
+ （85 分钟）\n\nA 主项\n· 基准 WOD 复测（与第 1 周完全相
+ 同的降阶版本）：\n· 3 轮 300m 跑步机 / 10 哑铃高翻 2×15k
+ g / 10 波比，计时\n\nB 辅助 / 技能\n· 体测：体重、腰围
+ （脐部）、正面/侧面照\n\nC 代谢 / 有氧\n· 10min Zone2 + 复
+ 盘\n\n【注意】填进「复测与打卡」，和第 1 周并排看\n\n
+ 【餐食】2434 kcal · 蛋白 177g\n早餐 7:00  燕麦80 牛奶250 鸡
+ 蛋50 蛋白100 香蕉120 牛油果40\n午餐 12:00  米饭（熟）200 
+ 牛里脊150 西兰花200 橄榄油8\n训练前 16:00  全麦面包70 蜂
+ 蜜15\n训练后 19:00  乳清蛋白粉30 香蕉120\n晚餐 20:00  鸡胸
+ 肉155 红薯210 菠菜200 橄榄油8\n加餐 22:00  希腊酸奶200 蓝
+ 莓80 混合坚果10\n\n不练的话，在 App 里切「今天不练」，
+ 餐单会自动换休息版。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:练 基准 WOD 复测 + 体测（W12）
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-49@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261110T232000Z
+DTEND:20261110T234000Z
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20270131T155900Z
+SUMMARY:今天休息 · 周三
+DESCRIPTION:【今天休息】20–30 分钟轻松走（心率 110–120）
+ ，或完全休息。\n\n想练的话，在 App 里切「今天练」，
+ 会给你一节自选训练。\n\n【餐食】2172 kcal · 蛋白 178g\n
+ 早餐 7:30  鸡蛋100 全麦面包80 牛奶200 蓝莓80\n午餐 12:00  
+ 鸡腿肉（去皮）165 糙米饭（熟）300 西兰花200 橄榄油8\n
+ 加餐 16:00  希腊酸奶200 蓝莓60\n晚餐 19:00  虾仁170 北豆腐1
+ 50 蘑菇150 菠菜150 红薯200 橄榄油8\n加餐 21:30  混合坚果10 
+ 乳清蛋白粉30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天休息 · 周三
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-50@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261113T232000Z
+DTEND:20261113T234000Z
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270131T155900Z
+SUMMARY:今天休息 · 周六
+DESCRIPTION:【今天休息】20–30 分钟轻松走（心率 110–120）
+ ，或完全休息。\n\n想练的话，在 App 里切「今天练」，
+ 会给你一节自选训练。\n\n【餐食】2175 kcal · 蛋白 174g\n
+ 早餐 7:30  鸡蛋100 蛋白100 燕麦60 牛奶250 蓝莓100\n午餐 12:0
+ 0  鸡胸肉195 藜麦（熟）300 西兰花150 番茄100 橄榄油8\n加
+ 餐 16:00  苹果150 混合坚果15 希腊酸奶200\n晚餐 19:00  鲈鱼2
+ 10 土豆290 芦笋150 橄榄油5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天休息 · 周六
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-daily-51@cfcoach
+DTSTAMP:20260101T000000Z
+DTSTART:20261114T232000Z
+DTEND:20261114T234000Z
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20270131T155900Z
+SUMMARY:今天休息 · 周日
+DESCRIPTION:【今天休息】20–30 分钟轻松走（心率 110–120）
+ ，或完全休息。\n\n想练的话，在 App 里切「今天练」，
+ 会给你一节自选训练。\n\n【餐食】2173 kcal · 蛋白 174g\n
+ 早餐 7:30  鸡蛋100 全麦面包80 牛奶250 番茄100\n午餐 12:00  
+ 米饭（熟）280 牛里脊170 青椒150 橄榄油8\n加餐 16:00  希腊
+ 酸奶200 混合坚果15\n晚餐 19:00  北豆腐200 虾仁120 西兰花20
+ 0 红薯230 橄榄油8\n加餐 21:30  苹果150 乳清蛋白粉30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天休息 · 周日
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
